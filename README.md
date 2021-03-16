@@ -34,7 +34,7 @@ Being an obsessed, compulsive hoarder I decided to try and compile a list of all
   
   1950 - [Pilot ACE](http://members.iinet.net.au/~dgreen/PilotACE/index.html)
   
-  1951 - [UNIVAC I(seemingly paid)](http://www.ingerman.org/niche.htm#UNIVAC)
+  1951 - [UNIVAC I(seemingly paid)](http://www.ingerman.org/niche.htm#UNIVAC), [Virtual UNIVAC](https://www.masswerk.at/virtualunivac/)
   
   1951 - [IAS machine](https://www.ic.unicamp.br/~edson/disciplinas/mc404/2017-2s/abef/IAS-sim/), [IASSim](https://cs.colby.edu/djskrien/IASSim/index.html), [IAS-Emulator](https://github.com/Iansa9/IAS-Emulator)
   
@@ -46,8 +46,6 @@ Being an obsessed, compulsive hoarder I decided to try and compile a list of all
   
   1952 - [BESM](https://github.com/kjarosh/besm-emulator)
   
-  1953 - [BESK](https://www.smilemu.org/), [SMAJL](https://github.com/sebras/SMAJL)
-  
   1953 - [JOHNNIAC](https://github.com/sebras/JOHNNIAC)
   
   1954 - [IBM NORC](https://github.com/rsanchovilla/SimH_cpanel)
@@ -56,15 +54,25 @@ Being an obsessed, compulsive hoarder I decided to try and compile a list of all
   
   1955 - [IBM 702](https://github.com/simh/simh)
   
+  1955 - [Zuse Z22](https://norbertkehrer.github.io/z22.html)
+  
   1956 - [B205](https://datatron.blogspot.com/2015/01/introducing-retro-205-emulator.html), [retro-205](https://github.com/pkimpel/retro-205), [online alt](http://www.phkimpel.us/ElectroData-205/webUI/D205.html)
   
   1956 - [SILLIAC](http://members.iinet.net.au/~dgreen/silliac.html)
   
   1956 - [Royal-Mcbee LGP-30/LGP-21](http://simh.trailing-edge.com/)
   
+  1956 - [SMIL](https://www.smilemu.org/), [SMAJL emu](https://github.com/sebras/SMAJL)
+  
+  1956 - [TX-O](https://www.wizforest.com/tech/tx-0/)
+  
   1957 - [ERNIE](https://ernie.virtualcolossus.co.uk/)
   
-  1958 - [Stantec ZEBRA](https://www.computerconservationsociety.org/software/zebra/base.htm), 
+  1957 - [Ferranti Mercury](https://github.com/lu8aja/PicMercury)
+  
+  1958 - [Stantec ZEBRA](https://www.computerconservationsociety.org/software/zebra/base.htm)
+  
+  1958 - [Mailüfterl](https://norbertkehrer.github.io/mailuefterl.html)
   
   1959 - [PDP-1 - supported by MAME](https://www.mamedev.org/), [SimH emulator](http://simh.trailing-edge.com/), [FPG-1 emulator](https://github.com/hrvach/fpg1), [graphics demonstration emulator](https://www.masswerk.at/minskytron/)
   
@@ -74,6 +82,8 @@ Being an obsessed, compulsive hoarder I decided to try and compile a list of all
   
   1960 - [IBM 1620](http://simh.trailing-edge.com/)
   
+  1960 - [Elliot 803](https://peteronion.org.uk/Elliott/), [alt]https://github.com/hxw/Elliott-803, 
+  
   1961 - [Ferranti Sirius](https://www.computerconservationsociety.org/software/sirius/base.htm)
   
   1961 - [LEO III](https://www.computerconservationsociety.org/software/leo3/base.htm)
@@ -81,6 +91,8 @@ Being an obsessed, compulsive hoarder I decided to try and compile a list of all
   1962 - [Ferranti Atlas 1](https://www.computerconservationsociety.org/software/atlas/base.htm)
   
   1962 - [PDP-4](http://simh.trailing-edge.com/)
+  
+  1962 - [Minsk-2](https://mj.ucw.cz/minsk/readme.html)
   
   1964 - [KDF9](https://www.computerconservationsociety.org/software/kdf9/base.htm)
   
