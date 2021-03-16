@@ -1,5 +1,5 @@
 # Awesome-List-of-Emulators
-Being an obsessed, compulsive hoarder I decided to try and compile a list of all the emulators I could find.
+Being an obsessed, compulsive hoarder I decided to try and compile a list of all the emulators and simulators I could find, mostly for vintage hardware and products.
 
 ***1930s/1950s:***
 
@@ -32,13 +32,31 @@ Being an obsessed, compulsive hoarder I decided to try and compile a list of all
   
   ***1950s/1970s:***
   
+  1950 - [Pilot ACE](http://members.iinet.net.au/~dgreen/PilotACE/index.html)
+  
   1951 - [UNIVAC I(seemingly paid)](http://www.ingerman.org/niche.htm#UNIVAC)
+  
+  1951 - [IAS machine](https://www.ic.unicamp.br/~edson/disciplinas/mc404/2017-2s/abef/IAS-sim/), [IASSim](https://cs.colby.edu/djskrien/IASSim/index.html), [IAS-Emulator](https://github.com/Iansa9/IAS-Emulator)
   
   1951 - [APEXC, supported by MAME](https://www.mamedev.org/)
   
+  1952 - [Harwell WITCH](https://github.com/technobaboo/witch-e), [alt](https://github.com/DavidNorman/WitchComputer)
+  
+  1952 - [IBM 701](https://basepath.com/new/701/index.php), [IBM701Emulator](https://github.com/Jayx239/IBM701Emulator), [SimH](https://github.com/simh/simh)
+  
+  1952 - [BESM](https://github.com/kjarosh/besm-emulator)
+  
+  1953 - [BESK](https://www.smilemu.org/), [SMAJL](https://github.com/sebras/SMAJL)
+  
+  1953 - [JOHNNIAC](https://github.com/sebras/JOHNNIAC)
+  
+  1954 - [IBM NORC](https://github.com/rsanchovilla/SimH_cpanel)
+  
   1955 - [Ferranti Pegasus](https://www.computerconservationsociety.org/software/pegasus/base.htm)
   
-  1956 - [B205](https://datatron.blogspot.com/2015/01/introducing-retro-205-emulator.html)
+  1955 - [IBM 702](https://github.com/simh/simh)
+  
+  1956 - [B205](https://datatron.blogspot.com/2015/01/introducing-retro-205-emulator.html), [retro-205](https://github.com/pkimpel/retro-205), [online alt](http://www.phkimpel.us/ElectroData-205/webUI/D205.html)
   
   1956 - [SILLIAC](http://members.iinet.net.au/~dgreen/silliac.html)
   
@@ -84,6 +102,8 @@ Being an obsessed, compulsive hoarder I decided to try and compile a list of all
   
   1966/- [Interdata 16b and 32b systems](http://simh.trailing-edge.com/)
   
+  1968 - [BESM-6](http://www.mailcom.com/besm6/)
+  
   1969 - [Data General Nova](http://simh.trailing-edge.com/), [alt](https://github.com/rockview/nova), [Novas Are Forever emulator](http://www.novasareforever.org/novajs/index.php)
   
   1969 - [GRI-909](http://simh.trailing-edge.com/)
@@ -98,6 +118,8 @@ Being an obsessed, compulsive hoarder I decided to try and compile a list of all
   
   1971 - [Hewlett-Packard HP 2100](http://simh.trailing-edge.com/), [HP 2116 emulator](http://rikers.org/hp2100/jeff/emulator/index.html), [other emulators](http://hp1000.org/)
   
+  1971 - [Phillips P855/860](https://www.theoengel.nl/P800/p800sim.html)
+  
   1972 - [GRI-99](http://simh.trailing-edge.com/)
   
   1972 - [Hewlett-Packard HP 3000](http://simh.trailing-edge.com/)
@@ -108,9 +130,15 @@ Being an obsessed, compulsive hoarder I decided to try and compile a list of all
   
   1975 - [MITS Altair 8800, supported by MAME](https://www.mamedev.org/),[SimH](http://simh.trailing-edge.com/), [faithful online simulator](https://s2js.com/altair/), [Altair-rfp](https://www.emutopia.com/index.php/emulators/item/310-altair-8800/134-altair-rfp), [EmuGenWiki page](https://emulation.gametechwiki.com/index.php/Altair_8800)
   
+  1976 - [Phillips P856](https://www.theoengel.nl/P800/p856sim.html)
+  
+  197? - [Phillips P85x](https://www.theoengel.nl/P800/P85x/index.html)
+  
   1977 - [VAX-11/780](http://simh.trailing-edge.com/)
   
   1981 - [BBC Micro](https://emulation.gametechwiki.com/index.php/BBC_Micro_emulators)
+  
+  1982 - [Olivetti M20, supported by MAME](https://www.mamedev.org/)
   
   1989 - [MicroVAX 3900](http://simh.trailing-edge.com/)
 
