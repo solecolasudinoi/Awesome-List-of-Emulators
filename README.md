@@ -82,11 +82,15 @@ Being an obsessed, compulsive hoarder I decided to try and compile a list of all
   
   1960 - [IBM 1620](http://simh.trailing-edge.com/)
   
-  1960 - [Elliot 803](https://peteronion.org.uk/Elliott/), [alt]https://github.com/hxw/Elliott-803, 
+  1960 - [Elliot 803](https://peteronion.org.uk/Elliott/), [alt](https://github.com/hxw/Elliott-803) 
   
   1961 - [Ferranti Sirius](https://www.computerconservationsociety.org/software/sirius/base.htm)
   
   1961 - [LEO III](https://www.computerconservationsociety.org/software/leo3/base.htm)
+  
+  1961 - [IBM 1410](https://www.computercollection.net/index.php/ibm-1410-simulator/)
+  
+  1961 - [Zuse Z23](https://www.nitzler.de/index_en.html?/zuse_en.html)
   
   1962 - [Ferranti Atlas 1](https://www.computerconservationsociety.org/software/atlas/base.htm)
   
@@ -103,6 +107,8 @@ Being an obsessed, compulsive hoarder I decided to try and compile a list of all
   1965 - [PDP-8](http://simh.trailing-edge.com/), [java emu](http://www.vandermark.ch/pdp8/index.php?n=PDP8.Emulator), [alt](http://homepage.divms.uiowa.edu/~jones/pdp8/)
   
   1965 - [Elliott 903](https://www.computerconservationsociety.org/software/elliott903/base.htm)
+  
+  1965 - [Olivetti Programma P101](http://www.claudiolarini.altervista.org/emul2.htm), [alt](https://ub.fnwi.uva.nl/computermuseum/p101emul.html)
   
   1966 - [PDP-9](http://simh.trailing-edge.com/)
   
@@ -128,19 +134,59 @@ Being an obsessed, compulsive hoarder I decided to try and compile a list of all
   
   1970 - [PDP-15](http://simh.trailing-edge.com/)
   
+  1970 - [Imlac PDS-1](https://github.com/livingcomputermuseum/sImlac)
+  
+  1970 - [COMKIT 8060 / 8061 / 8062](http://upd780c1.g1.xrea.com/pc-8001/index.html)
+  
+  1971 - [Kenbak-1](http://www.neocomputer.org/kenbak/), [alt](http://www.historicsimulations.com/kenbak1.html)
+  
   1971 - [Hewlett-Packard HP 2100](http://simh.trailing-edge.com/), [HP 2116 emulator](http://rikers.org/hp2100/jeff/emulator/index.html), [other emulators](http://hp1000.org/)
   
   1971 - [Phillips P855/860](https://www.theoengel.nl/P800/p800sim.html)
   
   1972 - [GRI-99](http://simh.trailing-edge.com/)
   
+  1972 - [HP-9800 Series](https://github.com/go9800/GO9800)
+  
+  1972 - [HP 35 Calculator](https://www.hpmuseum.org/simulate/simulate.htm)
+  
   1972 - [Hewlett-Packard HP 3000](http://simh.trailing-edge.com/)
+  
+  1973 - [HP-45 Calculator](https://www.hpmuseum.org/simulate/simulate.htm)
+  
+  1973 - [Intel Intellec Series, supported by Mame](https://www.mamedev.org/)
+  
+  1973 - [Wang 2200](https://www.wang2200.org/emu.html), [github alt](https://github.com/jtbattle/wangemu)
+  
+  1973 - [Xerox Alto](https://github.com/livingcomputermuseum/ContrAlto), [SALTO](http://toastytech.com/guis/salto.html)
+  
+  1974 - [MCM 70](http://www.cs.yorku.ca/museum/mcm70E/MCM70E_general_info)
   
   1974 - [Data General Eclipse](http://simh.trailing-edge.com/), [mvemg emu](https://github.com/SMerrony/mvemg)
   
   1974 - [MU5](https://www.computerconservationsociety.org/software/mu5/base.htm)
   
-  1975 - [MITS Altair 8800, supported by MAME](https://www.mamedev.org/),[SimH](http://simh.trailing-edge.com/), [faithful online simulator](https://s2js.com/altair/), [Altair-rfp](https://www.emutopia.com/index.php/emulators/item/310-altair-8800/134-altair-rfp), [EmuGenWiki page](https://emulation.gametechwiki.com/index.php/Altair_8800)
+  1975 - [HP-25 Calculator](https://www.hpmuseum.org/simulate/simulate.htm)
+  
+  1975 - [MITS Altair 8800, supported by MAME](https://www.mamedev.org/),[SimH](http://simh.trailing-edge.com/), [faithful online simulator](https://s2js.com/altair/), [Altair-rfp](https://www.emutopia.com/index.php/emulators/item/310-altair-8800/134-altair-rfp), [z80pack](https://www.autometer.de/unix4fun/z80pack/), [EmuGenWiki page](https://emulation.gametechwiki.com/index.php/Altair_8800)
+  
+  1975 - [IMSAI 8080](https://www.autometer.de/unix4fun/z80pack/)
+  
+  1975 - [SWTPc 6800, supported by MAME](https://www.mamedev.org/), [6800/6809 Emulator](http://www.evenson-consulting.com/swtpc/default.htm), [SimH](https://github.com/simh/simh), [EXORsim](http://exorsim.sourceforge.net/)
+  
+  1976 - [Cromemco Z-1](https://www.autometer.de/unix4fun/z80pack/)
+  
+  1976 = [Apple I, supported by MAME](https://www.mamedev.org/), [EmuGenWiki page](https://emulation.gametechwiki.com/index.php/Apple_I_emulators)
+  
+  1976 - [MOS Technology KIM-1, supported by MAME](https://www.mamedev.org/), [KIMplement](https://www.floodgap.com/retrobits/kim-1/), [Soft6502](http://www.crbond.com/soft6502.htm)
+  
+  1976 - [Polymorphic Poly 88, supported by MAME](https://www.mamedev.org/), [Poly Emulator](https://deramp.com/polymorphic-computers/emu88.html)
+  
+  1976 - [Processor Technology SOL-20, supported by MAME](https://www.mamedev.org/), [Solace](https://www.sol20.org/solace.html)
+  
+  1976 - [Rockwell AIM 65, supported by MAME](https://www.mamedev.org/), [EMU65](https://github.com/dvejmz/EMU65)
+  
+  1976 - [Terak 8510/a, supported by MAME](https://www.mamedev.org/), [Bk/Terak Emu](http://bk-terak-emu.sourceforge.net/)
   
   1976 - [Phillips P856](https://www.theoengel.nl/P800/p856sim.html)
   
@@ -148,9 +194,15 @@ Being an obsessed, compulsive hoarder I decided to try and compile a list of all
   
   1977 - [VAX-11/780](http://simh.trailing-edge.com/)
   
+  1977 - [RCA Studio II/III](https://github.com/ajavamind/rca-studio2)
+  
+  1977 - [Compucolor II](http://www.compucolor.org/emu.html)
+  
   1981 - [BBC Micro](https://emulation.gametechwiki.com/index.php/BBC_Micro_emulators)
   
   1982 - [Olivetti M20, supported by MAME](https://www.mamedev.org/)
+  
+  1982 - [HP-16C](https://www.hpmuseum.org/simulate/simulate.htm)
   
   1989 - [MicroVAX 3900](http://simh.trailing-edge.com/)
 
