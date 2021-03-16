@@ -5,6 +5,12 @@ Being an obsessed, compulsive hoarder I decided to try and compile a list of all
 
   1934/- - [British Typex](https://typex.virtualcolossus.co.uk/)
   
+  1936 - [Turing Machine](http://morphett.info/turing/), [alt](https://turingmachinesimulator.com/), [visualization](https://turingmachine.io/)
+  
+  1939 - [Turing Bombe](https://www.101computing.net/turing-welchman-bombe/), [alt](http://www.lysator.liu.se/~koma/turingbombe/)
+  
+  1941 - [Zuse Z3](http://www.historicsimulations.com/ZuseZ3.html)
+  
   1943 - [Colossus](https://www.virtualcolossus.co.uk/)
   
   1942/1944 - [Lorenz SZ40/42](https://lorenz.virtualcolossus.co.uk/)
@@ -13,16 +19,28 @@ Being an obsessed, compulsive hoarder I decided to try and compile a list of all
   
   1945 - [ENIAC](https://www.cs.drexel.edu/~bls96/eniac/)
   
-  1948 - [Manchester Baby](https://www.computerconservationsociety.org/software/ssem/base.htm), [online version](http://edmundgriffiths.com/jsssem.html)
+  1948 - [Manchester Baby/SSEM](https://www.computerconservationsociety.org/software/ssem/base.htm), [online version](http://edmundgriffiths.com/jsssem.html)
   
   1949 - [Manchester Mark 1](http://sw.ccs.bcs.org/CCs/simulate.htm)
   
-  1949 - [EDSAC](https://www.computerconservationsociety.org/software/edsac/base.htm)
+  1949 - [EDSAC](https://www.computerconservationsociety.org/software/edsac/base.htm), [alt](http://www.historicsimulations.com/edsac.html)
+  
+  1949 - [CSIRAC](https://cis.unimelb.edu.au/about/csirac/emulator.html), [alt](https://archive.org/details/CSIRAC)
+  
+  
   
   
   ***1950s/1970s:***
   
+  1951 - [UNIVAC I(seemingly paid)](http://www.ingerman.org/niche.htm#UNIVAC)
+  
+  1951 - [APEXC, supported by MAME](https://www.mamedev.org/)
+  
   1955 - [Ferranti Pegasus](https://www.computerconservationsociety.org/software/pegasus/base.htm)
+  
+  1956 - [B205](https://datatron.blogspot.com/2015/01/introducing-retro-205-emulator.html)
+  
+  1956 - [SILLIAC](http://members.iinet.net.au/~dgreen/silliac.html)
   
   1957 - [ERNIE](https://ernie.virtualcolossus.co.uk/)
   
