@@ -76,9 +76,9 @@ Being an obsessed, compulsive hoarder I decided to try and compile a list of all
   
   1959 - [PDP-1 - supported by MAME](https://www.mamedev.org/), [SimH emulator](http://simh.trailing-edge.com/), [FPG-1 emulator](https://github.com/hrvach/fpg1), [graphics demonstration emulator](https://www.masswerk.at/minskytron/)
   
-  1959/1962 - [IBM 7090/7094](http://simh.trailing-edge.com/), [B7094](https://www.fosshub.com/B7094-IBM7094-Emulator.html), [s709x](http://www.piercefuller.com/oldibm-shadow/709x.html)
+  1959/1962 - [IBM 709/7090/7094](http://simh.trailing-edge.com/), [B7094](https://www.fosshub.com/B7094-IBM7094-Emulator.html), [s709x](http://www.piercefuller.com/oldibm-shadow/709x.html), [updated s709x](http://www.cozx.com/dpitts/ibm7090.html)
   
-  1960 - [IBM 1401](http://simh.trailing-edge.com/), [3d simulation](https://rolffson.de/)
+  1960 - [IBM 1401](http://simh.trailing-edge.com/), [3d simulation](https://rolffson.de/), [simplified version?](http://members.optushome.com.au/intaemul/Emul1401.htm)
   
   1960 - [IBM 1620](http://simh.trailing-edge.com/)
   
@@ -98,7 +98,7 @@ Being an obsessed, compulsive hoarder I decided to try and compile a list of all
   
   1962 - [Minsk-2](https://mj.ucw.cz/minsk/readme.html)
   
-  1964 - [KDF9](https://www.computerconservationsociety.org/software/kdf9/base.htm)
+  1964 - [KDF9](https://www.computerconservationsociety.org/software/kdf9/base.htm), [alt](http://www.findlayw.plus.com/KDF9/)
   
   1965 - [ICL/ICL9000](https://www.computerconservationsociety.org/software/ict1900/base.htm)
   
@@ -118,6 +118,8 @@ Being an obsessed, compulsive hoarder I decided to try and compile a list of all
   
   1966 - [Xerox Sigma 32bit systems](http://simh.trailing-edge.com/)
   
+  1966 - [Apollo Guidance Computer](http://www.ibiblio.org/apollo/) 
+  
   1966/- [Interdata 16b and 32b systems](http://simh.trailing-edge.com/)
   
   1968 - [BESM-6](http://www.mailcom.com/besm6/)
@@ -136,6 +138,8 @@ Being an obsessed, compulsive hoarder I decided to try and compile a list of all
   
   1970 - [Imlac PDS-1](https://github.com/livingcomputermuseum/sImlac)
   
+  1970 - [IBM System/370](http://www.hercules-390.org/)
+  
   1970 - [COMKIT 8060 / 8061 / 8062](http://upd780c1.g1.xrea.com/pc-8001/index.html)
   
   1971 - [Kenbak-1](http://www.neocomputer.org/kenbak/), [alt](http://www.historicsimulations.com/kenbak1.html)
@@ -148,11 +152,13 @@ Being an obsessed, compulsive hoarder I decided to try and compile a list of all
   
   1972 - [HP-9800 Series](https://github.com/go9800/GO9800)
   
-  1972 - [HP 35 Calculator](https://www.hpmuseum.org/simulate/simulate.htm)
+  1972 - [HP-35 Calculator](https://www.hpmuseum.org/simulate/simulate.htm), [Nonpareil](https://nonpareil.brouhaha.com/)
   
   1972 - [Hewlett-Packard HP 3000](http://simh.trailing-edge.com/)
   
-  1973 - [HP-45 Calculator](https://www.hpmuseum.org/simulate/simulate.htm)
+  1973 - [HP-45 Calculator](https://www.hpmuseum.org/simulate/simulate.htm), [Nonpareil](https://nonpareil.brouhaha.com/)
+  
+  1973 - [HP-80 Calculator](https://nonpareil.brouhaha.com/)
   
   1973 - [Intel Intellec Series, supported by Mame](https://www.mamedev.org/)
   
@@ -166,7 +172,13 @@ Being an obsessed, compulsive hoarder I decided to try and compile a list of all
   
   1974 - [MU5](https://www.computerconservationsociety.org/software/mu5/base.htm)
   
-  1975 - [HP-25 Calculator](https://www.hpmuseum.org/simulate/simulate.htm)
+  1975 - [HP-25 Calculator](https://www.hpmuseum.org/simulate/simulate.htm), [Nonpareil](https://nonpareil.brouhaha.com/)
+  
+  1975 - [HP-25C Calculator](https://nonpareil.brouhaha.com/)
+  
+  1975 - [HP-55 Calculator](https://nonpareil.brouhaha.com/)
+  
+  1975 - [HP-21 Calculator](https://nonpareil.brouhaha.com/)
   
   1975 - [MITS Altair 8800, supported by MAME](https://www.mamedev.org/),[SimH](http://simh.trailing-edge.com/), [faithful online simulator](https://s2js.com/altair/), [Altair-rfp](https://www.emutopia.com/index.php/emulators/item/310-altair-8800/134-altair-rfp), [z80pack](https://www.autometer.de/unix4fun/z80pack/), [EmuGenWiki page](https://emulation.gametechwiki.com/index.php/Altair_8800)
   
@@ -188,15 +200,37 @@ Being an obsessed, compulsive hoarder I decided to try and compile a list of all
   
   1976 - [Terak 8510/a, supported by MAME](https://www.mamedev.org/), [Bk/Terak Emu](http://bk-terak-emu.sourceforge.net/)
   
+  1976 - [COSMAC ELF](http://www.elf-emulation.com/emulator.html)
+  
   1976 - [Phillips P856](https://www.theoengel.nl/P800/p856sim.html)
   
   197? - [Phillips P85x](https://www.theoengel.nl/P800/P85x/index.html)
   
   1977 - [VAX-11/780](http://simh.trailing-edge.com/)
   
-  1977 - [RCA Studio II/III](https://github.com/ajavamind/rca-studio2)
+  1977 - [RCA Studio II/III](https://github.com/ajavamind/rca-studio2), [Elf Emulator](http://www.elf-emulation.com/emulator.html)
   
   1977 - [Compucolor II](http://www.compucolor.org/emu.html)
+  
+  1978 - [Netronics Elf II](http://www.elf-emulation.com/emulator.html)
+  
+  1978 - [Quest Super Elf](http://www.elf-emulation.com/emulator.html)
+  
+  1978 - [HP-32E](https://nonpareil.brouhaha.com/)
+  
+  1978 - [HP-37E](https://nonpareil.brouhaha.com/)
+  
+  1978 - [HP-38E](https://nonpareil.brouhaha.com/)
+  
+  1979 - [HP-38C](https://nonpareil.brouhaha.com/)
+  
+  1979 - [HP-33C](https://nonpareil.brouhaha.com/)
+  
+  1979 - [HP-34C](https://nonpareil.brouhaha.com/)
+  
+  1979 - [HP-41C](https://www.hpmuseum.org/simulate/simulate.htm), [Nonpareil](https://nonpareil.brouhaha.com/)
+  
+  1980 - [HP-41CV](https://nonpareil.brouhaha.com/)
   
   1981 - [BBC Micro](https://emulation.gametechwiki.com/index.php/BBC_Micro_emulators)
   
@@ -204,6 +238,18 @@ Being an obsessed, compulsive hoarder I decided to try and compile a list of all
   
   1982 - [HP-16C](https://www.hpmuseum.org/simulate/simulate.htm)
   
-  1989 - [MicroVAX 3900](http://simh.trailing-edge.com/)
-
+  1982 - [HP-15C](https://www.hpmuseum.org/simulate/simulate.htm)
   
+  1983 - [HP-41CX](https://nonpareil.brouhaha.com/)
+  
+  1983 - [COMX-35](http://www.elf-emulation.com/emulator.html)
+  
+  1983 - [Electronika BK-0010](http://bk-terak-emu.sourceforge.net/)
+  
+  1989 - [MicroVAX 3900](http://simh.trailing-edge.com/)
+  
+  1980 - [Elektronika BK-0011M](http://bk-terak-emu.sourceforge.net/)
+
+  1990 - [IBM System/390](http://www.hercules-390.org/)
+  
+  2000 - [IBM z/Architecture](http://www.hercules-390.org/)
