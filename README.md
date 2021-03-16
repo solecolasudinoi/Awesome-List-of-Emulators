@@ -42,6 +42,8 @@ Being an obsessed, compulsive hoarder I decided to try and compile a list of all
   
   1956 - [SILLIAC](http://members.iinet.net.au/~dgreen/silliac.html)
   
+  1956 - [Royal-Mcbee LGP-30/LGP-21](http://simh.trailing-edge.com/)
+  
   1957 - [ERNIE](https://ernie.virtualcolossus.co.uk/)
   
   1958 - [Stantec ZEBRA](https://www.computerconservationsociety.org/software/zebra/base.htm), 
@@ -75,6 +77,10 @@ Being an obsessed, compulsive hoarder I decided to try and compile a list of all
   1966 - [PDP-9](http://simh.trailing-edge.com/)
   
   1966 - [PDP-10](http://simh.trailing-edge.com/), [other emulators](https://www.inwap.com/pdp10/emulators/), [PDP-10 enthusiast group](https://github.com/PDP-10)
+  
+  1966 - [SDS 940](http://simh.trailing-edge.com/)
+  
+  1966 - [Xerox Sigma 32bit systems](http://simh.trailing-edge.com/)
   
   1966/- [Interdata 16b and 32b systems](http://simh.trailing-edge.com/)
   
