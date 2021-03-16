@@ -20,6 +20,8 @@ Being an obsessed, compulsive hoarder I decided to try and compile a list of all
   1949 - [EDSAC](https://www.computerconservationsociety.org/software/edsac/base.htm)
   
   
+  ***1950s/1970s:***
+  
   1955 - [Ferranti Pegasus](https://www.computerconservationsociety.org/software/pegasus/base.htm)
   
   1957 - [ERNIE](https://ernie.virtualcolossus.co.uk/)
@@ -27,6 +29,8 @@ Being an obsessed, compulsive hoarder I decided to try and compile a list of all
   1958 - [Stantec ZEBRA](https://www.computerconservationsociety.org/software/zebra/base.htm), 
   
   1961 - [Ferranti Sirius](https://www.computerconservationsociety.org/software/sirius/base.htm)
+  
+  1961 - [LEO III](https://www.computerconservationsociety.org/software/leo3/base.htm)
   
   1962 - [Ferranti Atlas 1](https://www.computerconservationsociety.org/software/atlas/base.htm)
   
@@ -38,4 +42,4 @@ Being an obsessed, compulsive hoarder I decided to try and compile a list of all
   
   1974 - [MU5](https://www.computerconservationsociety.org/software/mu5/base.htm)
   
-  
+  1981 - [BBC Micro](https://emulation.gametechwiki.com/index.php/BBC_Micro_emulators)
