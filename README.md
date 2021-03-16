@@ -188,6 +188,8 @@ Being an obsessed, compulsive hoarder I decided to try and compile a list of all
   
   1976 - [Cromemco Z-1](https://www.autometer.de/unix4fun/z80pack/)
   
+  1976? - [CDP18S020 Evaluation Kit](https://www.emma02.hobby-site.com/)
+  
   1976 = [Apple I, supported by MAME](https://www.mamedev.org/), [EmuGenWiki page](https://emulation.gametechwiki.com/index.php/Apple_I_emulators)
   
   1976 - [MOS Technology KIM-1, supported by MAME](https://www.mamedev.org/), [KIMplement](https://www.floodgap.com/retrobits/kim-1/), [Soft6502](http://www.crbond.com/soft6502.htm)
