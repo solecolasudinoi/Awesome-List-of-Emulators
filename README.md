@@ -242,6 +242,8 @@ Being an obsessed, compulsive hoarder I decided to try and compile a list of all
   
   1976 - [Phillips P856](https://www.theoengel.nl/P800/p856sim.html)
   
+  1976/1977 - [AY-3-8550/8600-based Pong systems (Coleco Telstar Galaxy, Sheen TVG-201, etc.)](http://amigan.1emu.net/)
+  
   197? - [Phillips P85x](https://www.theoengel.nl/P800/P85x/index.html)
   
   1977 - [Infinite UC1800](https://www.emma02.hobby-site.com/)
@@ -260,6 +262,16 @@ Being an obsessed, compulsive hoarder I decided to try and compile a list of all
   
   1977 - [Compucolor II](http://www.compucolor.org/emu.html)
   
+  1977 - [TRS-80 Model I/II/III/4](http://www.trs-80.com/wordpress/emulators/), [Matthew Reed's emulators](http://www.trs-80emulators.com/#emulators)
+  
+  1977 - [MK-14, supported by MAME](https://www.mamedev.org/), [ZEsarUX](https://github.com/chernandezba/zesarux/)
+  
+  1977 - [Dolphin trainer](http://amigan.1emu.net/)
+  
+  1977 - [Central Data 2650](http://amigan.1emu.net/)
+  
+  1977/1978 - [PIPBUG- and BINBUG-based machines (Electronics Australia 77up2 and 78up5, Signetics Adaptable Board Computer, Eurocard 2650, etc.)](http://amigan.1emu.net/)
+  
   1978 - [Visicom COM-100](https://www.emma02.hobby-site.com/)
   
   1978 - [Netronics Elf II](http://www.elf-emulation.com/emulator.html), [emma-02](https://www.emma02.hobby-site.com/)
@@ -268,7 +280,11 @@ Being an obsessed, compulsive hoarder I decided to try and compile a list of all
   
   1978 - [Victory MPT-02](https://www.emma02.hobby-site.com/)
   
-  1978 - [Interton Video Computer 4000 console family](http://amigan.1emu.net/)
+  1978 - [Signetics Instructor 50](http://amigan.1emu.net/)
+  
+  1978 - [Interton Video Computer 4000 console family(Acetronic, Fountain, Hanimex, Interton, Prinztronic, Radofin, Rowtron, Voltmace, Waddingtons, etc.)](http://amigan.1emu.net/)
+  
+  1978 - [MIKIT 2650](http://amigan.1emu.net/)
   
   1978 - [HP 3000 Series III](https://github.com/simh/simh)
   
@@ -286,11 +302,19 @@ Being an obsessed, compulsive hoarder I decided to try and compile a list of all
   
   1979 - [HP-41C](https://www.hpmuseum.org/simulate/simulate.htm), [Nonpareil](https://nonpareil.brouhaha.com/)
   
+  1979 - [Elektor TV Games Computer](http://amigan.1emu.net/)
+  
+  1979 - [Astro Wars and Galaxia coin-ops by Zaccaria](http://amigan.1emu.net/) 
+  
   1979? - [Cosmicos](https://www.emma02.hobby-site.com/)
   
   1980 - [HP-41CV](https://nonpareil.brouhaha.com/)
   
   1980 - [Oscom Nano](https://www.emma02.hobby-site.com/)
+  
+  1980 - [Sinclair ZX80](https://www.vincenzoscarpa.it/emuwiki/pmwiki/pmwiki.php?n=Emulatori.Win,ZX80?), [sz81](http://sz81.sourceforge.net/), [more emulators](https://www.old-computers.com/museum/emulator.asp?c=262&st=1)
+  
+  1980 - [PHUNSY Computer](http://amigan.1emu.net/)
   
   1980 - [VAX-11/750](https://github.com/simh/simh)
   
@@ -302,7 +326,13 @@ Being an obsessed, compulsive hoarder I decided to try and compile a list of all
   
   1981 - [BBC Micro](https://emulation.gametechwiki.com/index.php/BBC_Micro_emulators)
   
+  1981 - [Sinclair ZX81](https://emulation.gametechwiki.com/index.php/Sinclair_ZX81_emulators)
+  
+  1981 - [Laser Battle and Lazarian coin-ops by Zaccaria](http://amigan.1emu.net/)
+  
   1981 - [PDQ-3](https://github.com/simh/simh)
+  
+  1981? - [Malzak 1 and 2 coin-ops by Kitronix](http://amigan.1emu.net/)
   
   1981? - [ETI 660](https://www.emma02.hobby-site.com/)
   
@@ -318,31 +348,73 @@ Being an obsessed, compulsive hoarder I decided to try and compile a list of all
   
   1982 - [MCDS, Microboard Computer Development System](https://www.emma02.hobby-site.com/)
   
+  1982 - [TRS-80 Model 16](http://48k.ca/trs80gp.html)
+  
+  1982 - [Oric-1](https://github.com/pete-gordon/oricutron)
+  
+  1982 - [Jupiter ACE](http://www.jupiter-ace.co.uk/emulators_win.html)
+  
+  1982 - [Sinclair ZX Spectrum](https://emulation.gametechwiki.com/index.php/ZX_Spectrum_Line)
+  
+  1982 - [Coleco Vision](https://emulation.gametechwiki.com/index.php/ColecoVision_emulators)
+  
   1982 - [HP-16C](https://www.hpmuseum.org/simulate/simulate.htm)
   
   1982 - [HP-15C](https://www.hpmuseum.org/simulate/simulate.htm)
   
   1983 - [HP-41CX](https://nonpareil.brouhaha.com/)
   
+  1983 - [Chaos 2 Computer](http://amigan.1emu.net/)
+  
+  1983 - [Coleco Adam](https://fms.komkon.org/ColEm/), [CoolCV](https://atariage.com/forums/topic/240800-coolcv-emulator-for-mac-os-x-linux-windows-and-raspberry/)
+  
+  1983 - [SEGA SG-1000/SC-3000](https://emulation.gametechwiki.com/index.php/SG-1000_emulators)
+  
+  1983 - [NES](https://emulation.gametechwiki.com/index.php/Nintendo_Entertainment_System_emulators)
+  
+  1983 - [MSX, MSX2, MSX2+, TurboR](http://emulation.gametechwiki.com/index.php/MSX_emulators)
+  
   1983 - [Electronika BK-0010](http://bk-terak-emu.sourceforge.net/)
+  
+  1983 - [TRS-80 Model 100, 102, 200](https://sourceforge.net/projects/virtualt/)
   
   1983 - [COMX-35](http://www.elf-emulation.com/emulator.html), [emma-02](https://www.emma02.hobby-site.com/)
   
   1984 - [COMIX-35, open source clone of COMX-35](https://www.emma02.hobby-site.com/)
   
+  1984 - [Amstrad CPC](https://emulation.gametechwiki.com/index.php/Amstrad_CPC_emulators), [CPCwiki page](http://www.cpcwiki.eu/index.php/Emulators)
+  
+  1984 - [SF-7000](https://emulation.gametechwiki.com/index.php/SG-1000_emulators)
+  
+  1984 - [Oric Atmos](https://github.com/pete-gordon/oricutron)
+  
   1984 - [VAXstation I / MicroVAX I](https://github.com/simh/simh)
   
   1984 - [VAX 8600/8650](https://github.com/simh/simh)
   
+  1984 - [Ravensburger Selbstbaucomputer/2650 Minimal Computer](http://amigan.1emu.net/)
+  
   1984 - [RCA Microdisk Development System MS2000](https://www.emma02.hobby-site.com/)
+  
+  1984 - [Sinclair QL](http://www.dilwyn.me.uk/emu/), [zesarux](https://github.com/chernandezba/zesarux/)
   
   1984 - [AT&T 3B2](https://github.com/simh/simh)
   
   1985 - [Pecom 32 and 64](https://www.emma02.hobby-site.com/)
   
+  1985 - [Enterprise](http://ep128emu.sourceforge.net/), [ep32emu](http://web.axelero.hu/egzo/ep/epemu.html), [online version](http://ep.lgb.hu/jsep/)
+  
+  1985 - [SMS/SEGA Master System](https://emulation.gametechwiki.com/index.php/Master_System_emulators)
+  
+  1985 - [Pravetz 8D](https://github.com/pete-gordon/oricutron)
+  
+  1985 - [VTech Type-right machine](http://amigan.1emu.net/)
+  
   1985 - [VAXstation II / VAXstation II/GPX / MicroVAX II](https://github.com/simh/simh)
   
   1986 - [VAX 8200/8250](https://github.com/simh/simh)
+  
+  1986 - [Oric Telestrat](https://github.com/pete-gordon/oricutron)
   
   1987 - [rtVAX 1000/Industrial VAX 620](https://github.com/simh/simh)
   
@@ -350,7 +422,11 @@ Being an obsessed, compulsive hoarder I decided to try and compile a list of all
   
   1987 - [MicroVAX 3100 M10 / M10e / M20 / M20E](https://github.com/simh/simh)
   
+  1987 - [Cambridge Z88](https://github.com/chernandezba/zesarux/), [OZvm](https://sourceforge.net/projects/z88/files/emulator/)
+  
   1989 - [MicroVAX 3900](http://simh.trailing-edge.com/)
+  
+  1989 - [Game Boy](https://emulation.gametechwiki.com/index.php/Game_Boy/Game_Boy_Color_emulators)
   
   1989 - [VAXstation 3100 M30 / M38 / M76](https://github.com/simh/simh)
 
@@ -360,9 +436,15 @@ Being an obsessed, compulsive hoarder I decided to try and compile a list of all
   
   1991 - [VAXstation 4000 VLC / M60](https://github.com/simh/simh)
   
+  1991 - [SEGA Game Gear](https://emulation.gametechwiki.com/index.php/Master_System_emulators)
+  
   1993 - [MicroVAX 3100 M80](https://github.com/simh/simh)
   
+  1998 - [Game Boy Color](https://emulation.gametechwiki.com/index.php/Game_Boy/Game_Boy_Color_emulators)
+  
   2000 - [IBM z/Architecture](http://www.hercules-390.org/)
+  
+  2001 - [Game Boy Advance](https://emulation.gametechwiki.com/index.php/Game_Boy_Advance_emulators)
   
   ???? - [Membership Card/VIP2K Membership Card](https://www.emma02.hobby-site.com/)
   
