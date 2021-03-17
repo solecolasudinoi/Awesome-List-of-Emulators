@@ -174,6 +174,8 @@ Being an obsessed, compulsive hoarder I decided to try and compile a list of all
   
   1972 - [GRI-99](http://simh.trailing-edge.com/)
   
+  1972 - [Magnavox Odyssey](https://emulation.gametechwiki.com/index.php/Magnavox_Odyssey_emulators)
+  
   1972 - [HP-9800 Series](https://github.com/go9800/GO9800)
   
   1972 - [HP-35 Calculator](https://www.hpmuseum.org/simulate/simulate.htm), [Nonpareil](https://nonpareil.brouhaha.com/)
@@ -209,6 +211,8 @@ Being an obsessed, compulsive hoarder I decided to try and compile a list of all
   1975 - [HP-55 Calculator](https://nonpareil.brouhaha.com/)
   
   1975 - [HP-21 Calculator](https://nonpareil.brouhaha.com/)
+  
+  1975 - [MOS Technology 6502](http://www.6502.org/tools/emu/)
   
   1975 - [MITS Altair 8800, supported by MAME](https://www.mamedev.org/),[SimH](http://simh.trailing-edge.com/), [faithful online simulator](https://s2js.com/altair/), [Altair-rfp](https://www.emutopia.com/index.php/emulators/item/310-altair-8800/134-altair-rfp), [z80pack](https://www.autometer.de/unix4fun/z80pack/), [EmuGenWiki page](https://emulation.gametechwiki.com/index.php/Altair_8800)
   
@@ -288,6 +292,8 @@ Being an obsessed, compulsive hoarder I decided to try and compile a list of all
   
   1978 - [Signetics Instructor 50](http://amigan.1emu.net/)
   
+  1978 - [Magnavox Odyssey 2/Philips Videopac G7000](https://emulation.gametechwiki.com/index.php/Magnavox_Odyssey%C2%B2_emulators)
+  
   1978 - [Interton Video Computer 4000 console family(Acetronic, Fountain, Hanimex, Interton, Prinztronic, Radofin, Rowtron, Voltmace, Waddingtons, etc.)](http://amigan.1emu.net/)
   
   1978 - [MIKIT 2650](http://amigan.1emu.net/)
@@ -309,6 +315,8 @@ Being an obsessed, compulsive hoarder I decided to try and compile a list of all
   1979 - [HP-41C](https://www.hpmuseum.org/simulate/simulate.htm), [Nonpareil](https://nonpareil.brouhaha.com/)
   
   1979 - [Atari 400/800/XL/XE](https://emulation.gametechwiki.com/index.php/Atari_8-bit)
+  
+  1979 - [Mattel Intellivision](https://emulation.gametechwiki.com/index.php/Intellivision_emulators)
   
   1979 - [Elektor TV Games Computer](http://amigan.1emu.net/)
   
@@ -400,11 +408,17 @@ Being an obsessed, compulsive hoarder I decided to try and compile a list of all
   
   1983 - [Electronika BK-0010](http://bk-terak-emu.sourceforge.net/)
   
+  1983 - [Apple Lisa](https://emulation.gametechwiki.com/index.php/Apple_Lisa_emulators)
+  
   1983 - [Spectravideo SV-318/328](http://bluemsx.msxblue.com/download.html), [online version](https://bluemsx.com/), [zesarux](https://github.com/chernandezba/zesarux/)
   
   1983 - [TRS-80 Model 100, 102, 200](https://sourceforge.net/projects/virtualt/)
   
-  1983 - [Timex TS 2068](https://github.com/chernandezba/zesarux/) 
+  1983 - [Timex TS 2068](https://github.com/chernandezba/zesarux/)
+  
+  1983 - [Matra Alice 32](http://alice32.free.fr/)
+  
+  1983 - [Mattel Aquarius](https://www.zophar.net/aquarius.html)
   
   1983 - [Tandy MC-10](http://mc-10.com/), [Virtual MC-10](https://colorcomputerarchive.com/repo/MC-10/emulators/Virtual%20MC-10/)
   
@@ -421,6 +435,8 @@ Being an obsessed, compulsive hoarder I decided to try and compile a list of all
   1984 - [Amstrad CPC 464, 664, 6128](http://www.emucamp.com/amstrad_cpc.html), [online version](https://www.retrovm.com/)
   
   1984 - [Oric Atmos](https://github.com/pete-gordon/oricutron)
+  
+  1984 - [Apple Macintosh](https://emulation.gametechwiki.com/index.php/Macintosh_line)
   
   1984 - [VAXstation I / MicroVAX I](https://github.com/simh/simh)
   
@@ -472,6 +488,8 @@ Being an obsessed, compulsive hoarder I decided to try and compile a list of all
   
   1987 - [Cambridge Z88](https://github.com/chernandezba/zesarux/), [OZvm](https://sourceforge.net/projects/z88/files/emulator/)
   
+  1987 - [Acorn Archimedes](http://b-em.bbcmicro.com/arculator/), [ArcEm](http://arcem.sourceforge.net/)
+  
   1987 - [PC Engine/ Turbografx-16](https://emulation.gametechwiki.com/index.php/PC_Engine_(TurboGrafx-16)_emulators)
   
   1988 - [SEGA Genesis/Mega Drive](http://emulation.gametechwiki.com/index.php/Sega_Genesis_emulators), [online emulator](https://megadrive-emulator.com/), [Genesis Plus GX Wide](https://www.libretro.com/index.php/genesis-plus-gx-wide-now-available-for-libretroretroarch/)
@@ -483,6 +501,8 @@ Being an obsessed, compulsive hoarder I decided to try and compile a list of all
   1989 - [Game Boy](https://emulation.gametechwiki.com/index.php/Game_Boy/Game_Boy_Color_emulators)
   
   1989 - [Atari Lynx](https://emulation.gametechwiki.com/index.php/Atari_Lynx_emulators)
+  
+  1989 - [FM Towns/FM Towns Marty](https://emulation.gametechwiki.com/index.php/FM_Towns_emulators)
   
   1989 - [Pentagon/Пентагон](https://github.com/chernandezba/zesarux/)
   
@@ -514,9 +534,15 @@ Being an obsessed, compulsive hoarder I decided to try and compile a list of all
   
   1999 - [Psion Series 5mx](https://wuffs.org/WindEmu/index.html)
   
+  1999/2000 - [WonderSwan/WonderSwan Color](https://emulation.gametechwiki.com/index.php/WonderSwan_emulators)
+  
   2000 - [IBM z/Architecture](http://www.hercules-390.org/)
   
+  2000 - [Cybiko](http://users.skynet.be/bk327964/cybiko/download.htm)
+  
   2000 - [Playstation 2](http://emulation.gametechwiki.com/index.php/PlayStation_2_emulators)
+  
+  2001 - [GP32](http://users.skynet.be/bk327964/gp32/)
   
   2001 - [Game Boy Advance](https://emulation.gametechwiki.com/index.php/Game_Boy_Advance_emulators)
   
