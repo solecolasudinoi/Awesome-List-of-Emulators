@@ -372,11 +372,17 @@ Being an obsessed, compulsive hoarder I decided to try and compile a list of all
   
   1983 - [NES](https://emulation.gametechwiki.com/index.php/Nintendo_Entertainment_System_emulators)
   
-  1983 - [MSX, MSX2, MSX2+, TurboR](http://emulation.gametechwiki.com/index.php/MSX_emulators)
+  1983 - [MSX, MSX2, MSX2+, TurboR](http://emulation.gametechwiki.com/index.php/MSX_emulators), [online msx](https://webmsx.org/)
   
   1983 - [Electronika BK-0010](http://bk-terak-emu.sourceforge.net/)
   
+  1983 - [Spectravideo SV-318/328](http://bluemsx.msxblue.com/download.html), [online version](https://bluemsx.com/), [zesarux](https://github.com/chernandezba/zesarux/)
+  
   1983 - [TRS-80 Model 100, 102, 200](https://sourceforge.net/projects/virtualt/)
+  
+  1983 - [Timex TS 2068](https://github.com/chernandezba/zesarux/) 
+  
+  1983 - [Tandy MC-10](http://mc-10.com/), [Virtual MC-10](https://colorcomputerarchive.com/repo/MC-10/emulators/Virtual%20MC-10/)
   
   1983 - [COMX-35](http://www.elf-emulation.com/emulator.html), [emma-02](https://www.emma02.hobby-site.com/)
   
@@ -385,6 +391,8 @@ Being an obsessed, compulsive hoarder I decided to try and compile a list of all
   1984 - [Amstrad CPC](https://emulation.gametechwiki.com/index.php/Amstrad_CPC_emulators), [CPCwiki page](http://www.cpcwiki.eu/index.php/Emulators)
   
   1984 - [SF-7000](https://emulation.gametechwiki.com/index.php/SG-1000_emulators)
+  
+  1984 - [Amstrad CPC 464, 664, 6128](http://www.emucamp.com/amstrad_cpc.html), [online version](https://www.retrovm.com/)
   
   1984 - [Oric Atmos](https://github.com/pete-gordon/oricutron)
   
@@ -426,7 +434,11 @@ Being an obsessed, compulsive hoarder I decided to try and compile a list of all
   
   1989 - [MicroVAX 3900](http://simh.trailing-edge.com/)
   
+  1989 - [SAM Coupè](https://github.com/simonowen/simcoupe), [zesarux](https://github.com/chernandezba/zesarux/)
+  
   1989 - [Game Boy](https://emulation.gametechwiki.com/index.php/Game_Boy/Game_Boy_Color_emulators)
+  
+  1989 - [Pentagon/Пентагон](https://github.com/chernandezba/zesarux/)
   
   1989 - [VAXstation 3100 M30 / M38 / M76](https://github.com/simh/simh)
 
