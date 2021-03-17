@@ -292,6 +292,9 @@ Being an obsessed, compulsive hoarder I decided to try and compile a list of all
   
   1978 - [Signetics Instructor 50](http://amigan.1emu.net/)
   
+  1978 - [Interact Family Computer and seven Micronic computers:
+Victor, Hector, Hector HR, Hector HR +, Hector HRX, Hector HR MX 40 columns, Hector HR MX 80 columns](http://dchector.free.fr/)
+  
   1978 - [Magnavox Odyssey 2/Philips Videopac G7000](https://emulation.gametechwiki.com/index.php/Magnavox_Odyssey%C2%B2_emulators)
   
   1978 - [Interton Video Computer 4000 console family(Acetronic, Fountain, Hanimex, Interton, Prinztronic, Radofin, Rowtron, Voltmace, Waddingtons, etc.)](http://amigan.1emu.net/)
@@ -326,7 +329,11 @@ Being an obsessed, compulsive hoarder I decided to try and compile a list of all
   
   1980 - [HP-41CV](https://nonpareil.brouhaha.com/)
   
+  1980 - [Thomson T9000](http://dcmoto.free.fr/emulateur/index.html)
+  
   1980 - [Oscom Nano](https://www.emma02.hobby-site.com/)
+  
+  1980 - [Nintendo Game & Watch](https://emulation.gametechwiki.com/index.php/Game_%26_Watch)
   
   1980 - [Sinclair ZX80](https://www.vincenzoscarpa.it/emuwiki/pmwiki/pmwiki.php?n=Emulatori.Win,ZX80?), [sz81](http://sz81.sourceforge.net/), [more emulators](https://www.old-computers.com/museum/emulator.asp?c=262&st=1)
   
@@ -352,6 +359,10 @@ Being an obsessed, compulsive hoarder I decided to try and compile a list of all
   
   1981 - [Acorn Atom](http://atomulator.acornatom.co.uk/), [online version](http://phils-place.co.uk/HTeMuLator/atom/)
   
+  1981 - [NEC PC-6000](https://emulation.gametechwiki.com/index.php/NEC_PC-6000_series)
+  
+  1981 - [NEC PC-8801](https://emulation.gametechwiki.com/index.php/NEC_PC-8800_series)
+  
   1981? - [Malzak 1 and 2 coin-ops by Kitronix](http://amigan.1emu.net/)
   
   1981? - [ETI 660](https://www.emma02.hobby-site.com/)
@@ -360,11 +371,15 @@ Being an obsessed, compulsive hoarder I decided to try and compile a list of all
   
   1982 - [Telmac TMC-600](https://www.emma02.hobby-site.com/)
   
+  1982 - [NEC PC-9800](https://emulation.gametechwiki.com/index.php/NEC_PC-9800_series)
+  
   1982 - [Atari 5200](https://emulation.gametechwiki.com/index.php/Atari_5200_emulators)
   
   1982 - [Commodore 64/65](https://emulation.gametechwiki.com/index.php/Commodore_64_emulators)
   
   1982 - [VAX-11/730](https://github.com/simh/simh)
+  
+  1982 - [Microbee](http://nanowasp.org/)
   
   1982 - [Beta SAGE-II](https://github.com/simh/simh)
   
@@ -381,6 +396,8 @@ Being an obsessed, compulsive hoarder I decided to try and compile a list of all
   1982 - [Camputers Lynx](https://emulation.gametechwiki.com/index.php/Camputers_Lynx_emulators)
   
   1982 - [Vectrex](https://emulation.gametechwiki.com/index.php/Vectrex_emulators)
+  
+  1982 - [Thomson TO7, TO7/70](http://dcmoto.free.fr/emulateur/index.html)
   
   1982 - [Jupiter ACE](http://www.jupiter-ace.co.uk/emulators_win.html)
   
@@ -420,7 +437,7 @@ Being an obsessed, compulsive hoarder I decided to try and compile a list of all
   
   1983 - [Mattel Aquarius](https://www.zophar.net/aquarius.html)
   
-  1983 - [Tandy MC-10](http://mc-10.com/), [Virtual MC-10](https://colorcomputerarchive.com/repo/MC-10/emulators/Virtual%20MC-10/)
+  1983 - [Tandy MC-10](http://mc-10.com/), [Virtual MC-10](https://colorcomputerarchive.com/repo/MC-10/emulators/Virtual%20MC-10/), [dcalice](http://alice32.free.fr/)
   
   1983 - [Acorn Electron](http://elkulator.acornelectron.co.uk/), [ElectrEm](http://electrem.emuunlim.com/Downloads.html), [ElkJs](https://elkjs.azurewebsites.net/)
   
@@ -432,6 +449,10 @@ Being an obsessed, compulsive hoarder I decided to try and compile a list of all
   
   1984 - [SF-7000](https://emulation.gametechwiki.com/index.php/SG-1000_emulators)
   
+  1984 - [Thomson MO5, MO5E, MO5N, MO5NR](http://dcmoto.free.fr/emulateur/index.html)
+  
+  1984 - [Philips / Radiola / Schneider VG5000µ](http://dcvg5k.free.fr/)
+  
   1984 - [Amstrad CPC 464, 664, 6128](http://www.emucamp.com/amstrad_cpc.html), [online version](https://www.retrovm.com/)
   
   1984 - [Oric Atmos](https://github.com/pete-gordon/oricutron)
@@ -441,6 +462,8 @@ Being an obsessed, compulsive hoarder I decided to try and compile a list of all
   1984 - [VAXstation I / MicroVAX I](https://github.com/simh/simh)
   
   1984 - [VAX 8600/8650](https://github.com/simh/simh)
+  
+  1984 - [Exelvision EXL100](http://dcexel.free.fr/)
   
   1984 - [Ravensburger Selbstbaucomputer/2650 Minimal Computer](http://amigan.1emu.net/)
   
@@ -462,6 +485,8 @@ Being an obsessed, compulsive hoarder I decided to try and compile a list of all
   
   1985 - [Pravetz 8D](https://github.com/pete-gordon/oricutron)
   
+  1985 - [Thomson TO9](http://dcmoto.free.fr/emulateur/index.html)
+  
   1985 - [Commodore 128](https://emulation.gametechwiki.com/index.php/Commodore_128_emulators)
   
   1985 - [Commodore Amiga](https://emulation.gametechwiki.com/index.php/Amiga_Line)
@@ -477,6 +502,14 @@ Being an obsessed, compulsive hoarder I decided to try and compile a list of all
   1986 - [Atari 7800](https://emulation.gametechwiki.com/index.php/Atari_7800_emulators)
   
   1986 - [Oric Telestrat](https://github.com/pete-gordon/oricutron)
+  
+  1986 - [Exelvision Exeltel, Exeltel VS, Exeltel VX, Amper, Comtel](http://dcexel.free.fr/)
+  
+  1986 - [Thomson MO6/Olivetti Prodest PC 128](http://dcmoto.free.fr/emulateur/index.html)
+  
+  1986 - [Thomson TO8/TO8D](http://dcmoto.free.fr/emulateur/index.html)
+  
+  1986 - [Thomson TO9+](http://dcmoto.free.fr/emulateur/index.html)
   
   1986 - [Psion Organizer II](https://github.com/ScottRichardsCG/Psiora), [online Jape emu]
   
@@ -528,6 +561,8 @@ Being an obsessed, compulsive hoarder I decided to try and compile a list of all
   
   1994 - [SEGA Saturn](https://emulation.gametechwiki.com/index.php/Sega_Saturn_emulators)
   
+  1995 - [Nintendo Virtual Boy](https://emulation.gametechwiki.com/index.php/Virtual_Boy_emulators)
+  
   1996 - [Nintendo 64](https://emulation.gametechwiki.com/index.php/Nintendo_64_emulators)
   
   1998 - [Game Boy Color](https://emulation.gametechwiki.com/index.php/Game_Boy/Game_Boy_Color_emulators)
@@ -540,13 +575,31 @@ Being an obsessed, compulsive hoarder I decided to try and compile a list of all
   
   2000 - [Cybiko](http://users.skynet.be/bk327964/cybiko/download.htm)
   
+  2000 - [NUON - Enhanced DVD player](https://sourceforge.net/projects/nuance-nuon-emulator/)
+  
   2000 - [Playstation 2](http://emulation.gametechwiki.com/index.php/PlayStation_2_emulators)
   
   2001 - [GP32](http://users.skynet.be/bk327964/gp32/)
   
+  2001 - [Pokemon Mini](https://emulation.gametechwiki.com/index.php/Pok%C3%A9mon_mini_emulators)
+  
   2001 - [Game Boy Advance](https://emulation.gametechwiki.com/index.php/Game_Boy_Advance_emulators)
   
+  2001 - [GBA e=Reader](https://emulation.gametechwiki.com/index.php/GBA_e-Reader_emulators)
+  
   2001 - [Nintendo Gamecube](https://emulation.gametechwiki.com/index.php/GameCube_emulators)
+  
+  2004 - [Nintendo DS](https://emulation.gametechwiki.com/index.php/Nintendo_DS_emulators)
+  
+  2006 - [Nintendo Wii](https://emulation.gametechwiki.com/index.php/Wii_emulators)
+  
+  2009 - [Nintendo DSi](https://emulation.gametechwiki.com/index.php/Nintendo_DSi_emulators)
+  
+  2011 - [Nintendo 3DS](https://emulation.gametechwiki.com/index.php/Nintendo_3DS_emulators)
+  
+  2012 - [Nintendo Wii U](https://emulation.gametechwiki.com/index.php/Wii_U_emulators)
+  
+  2017 - [Nintendo Switch](https://emulation.gametechwiki.com/index.php/Nintendo_Switch_emulators)
   
   ???? - [Membership Card/VIP2K Membership Card](https://www.emma02.hobby-site.com/)
   
