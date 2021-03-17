@@ -268,6 +268,8 @@ Being an obsessed, compulsive hoarder I decided to try and compile a list of all
   
   1978 - [Victory MPT-02](https://www.emma02.hobby-site.com/)
   
+  1978 - [Interton Video Computer 4000 console family](http://amigan.1emu.net/)
+  
   1978 - [HP 3000 Series III](https://github.com/simh/simh)
   
   1978 - [HP-32E](https://nonpareil.brouhaha.com/)
@@ -311,6 +313,8 @@ Being an obsessed, compulsive hoarder I decided to try and compile a list of all
   1982 - [VAX-11/730](https://github.com/simh/simh)
   
   1982 - [Beta SAGE-II](https://github.com/simh/simh)
+  
+  1982 - [Emerson Arcadia 2001 console family(Bandai, Emerson, Grandstand, Intervision, Leisure-Vision, Leonardo, MPT-03, Ormatu, Palladium, Poppy, Robdajet, Tele-Fever, Tempest, Tryom, Tunix, etc.)](http://amigan.1emu.net/)
   
   1982 - [MCDS, Microboard Computer Development System](https://www.emma02.hobby-site.com/)
   
