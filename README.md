@@ -19,7 +19,7 @@ Being an obsessed, compulsive hoarder I decided to try and compile a list of all
   
   1945 - [ENIAC](https://www.cs.drexel.edu/~bls96/eniac/)
   
-  1948 - [Manchester Baby/SSEM](https://www.computerconservationsociety.org/software/ssem/base.htm), [online version](http://edmundgriffiths.com/jsssem.html)
+  1948 - [Manchester Baby/SSEM](https://www.computerconservationsociety.org/software/ssem/base.htm), [online version](http://edmundgriffiths.com/jsssem.html), [SimH](https://github.com/simh/simh)
   
   1949 - [Manchester Mark 1](http://sw.ccs.bcs.org/CCs/simulate.htm)
   
@@ -50,6 +50,12 @@ Being an obsessed, compulsive hoarder I decided to try and compile a list of all
   
   1954 - [IBM NORC](https://github.com/rsanchovilla/SimH_cpanel)
   
+  1954 - [IBM 650](https://github.com/rsanchovilla/SimH_cpanel), [official SimH](https://github.com/simh/simh)
+  
+  1954 - [IBM 704](https://github.com/rsanchovilla/SimH_cpanel), [official SimH](https://github.com/simh/simh)
+  
+  1954 - [IBM 705](https://github.com/simh/simh)
+  
   1955 - [Ferranti Pegasus](https://www.computerconservationsociety.org/software/pegasus/base.htm)
   
   1955 - [IBM 702](https://github.com/simh/simh)
@@ -64,31 +70,39 @@ Being an obsessed, compulsive hoarder I decided to try and compile a list of all
   
   1956 - [SMIL](https://www.smilemu.org/), [SMAJL emu](https://github.com/sebras/SMAJL)
   
-  1956 - [TX-O](https://www.wizforest.com/tech/tx-0/)
+  1956 - [TX-0](https://www.wizforest.com/tech/tx-0/), [SimH](https://github.com/simh/simh)
   
   1957 - [ERNIE](https://ernie.virtualcolossus.co.uk/)
   
   1957 - [Ferranti Mercury](https://github.com/lu8aja/PicMercury)
   
+  1957/1962 - [IBM 709/7090/7094](http://simh.trailing-edge.com/), [SimH-cpanel](https://github.com/rsanchovilla/SimH_cpanel) ,[[B7094](https://www.fosshub.com/B7094-IBM7094-Emulator.html), [s709x](http://www.piercefuller.com/oldibm-shadow/709x.html), [updated s709x](http://www.cozx.com/dpitts/ibm7090.html)
+  
   1958 - [Stantec ZEBRA](https://www.computerconservationsociety.org/software/zebra/base.htm)
+  
+  1958 - [IBM 7070](https://github.com/simh/simh)
   
   1958 - [Mailüfterl](https://norbertkehrer.github.io/mailuefterl.html)
   
-  1959 - [PDP-1 - supported by MAME](https://www.mamedev.org/), [SimH emulator](http://simh.trailing-edge.com/), [FPG-1 emulator](https://github.com/hrvach/fpg1), [graphics demonstration emulator](https://www.masswerk.at/minskytron/)
-  
-  1959/1962 - [IBM 709/7090/7094](http://simh.trailing-edge.com/), [B7094](https://www.fosshub.com/B7094-IBM7094-Emulator.html), [s709x](http://www.piercefuller.com/oldibm-shadow/709x.html), [updated s709x](http://www.cozx.com/dpitts/ibm7090.html)
+  1959 - [PDP-1 - supported by MAME](https://www.mamedev.org/), [SimH emulator](http://simh.trailing-edge.com/), [FPG-1 emulator](https://github.com/hrvach/fpg1), [graphics demonstration emulator](https://www.masswerk.at/minskytron/)  
   
   1960 - [IBM 1401](http://simh.trailing-edge.com/), [3d simulation](https://rolffson.de/), [simplified version?](http://members.optushome.com.au/intaemul/Emul1401.htm)
+  
+  1960 - [IBM 7074](https://github.com/simh/simh)
   
   1960 - [IBM 1620](http://simh.trailing-edge.com/)
   
   1960 - [Elliot 803](https://peteronion.org.uk/Elliott/), [alt](https://github.com/hxw/Elliott-803) 
   
+  1961/1970s - [ANITA Calculators](http://www.anita-simulators.org.uk/)
+  
   1961 - [Ferranti Sirius](https://www.computerconservationsociety.org/software/sirius/base.htm)
   
   1961 - [LEO III](https://www.computerconservationsociety.org/software/leo3/base.htm)
   
-  1961 - [IBM 1410](https://www.computercollection.net/index.php/ibm-1410-simulator/)
+  1961 - [IBM 1410](https://www.computercollection.net/index.php/ibm-1410-simulator/), [SimH](https://github.com/simh/simh)
+  
+  1961 - [IBM 7080](https://github.com/simh/simh)
   
   1961 - [Zuse Z23](https://www.nitzler.de/index_en.html?/zuse_en.html)
   
@@ -99,6 +113,10 @@ Being an obsessed, compulsive hoarder I decided to try and compile a list of all
   1962 - [Minsk-2](https://mj.ucw.cz/minsk/readme.html)
   
   1964 - [KDF9](https://www.computerconservationsociety.org/software/kdf9/base.htm), [alt](http://www.findlayw.plus.com/KDF9/)
+  
+  1964 - [PDP-6](https://github.com/simh/simh)
+  
+  1964 - [Burroughs B5500](https://github.com/simh/simh)
   
   1965 - [ICL/ICL9000](https://www.computerconservationsociety.org/software/ict1900/base.htm)
   
@@ -114,7 +132,11 @@ Being an obsessed, compulsive hoarder I decided to try and compile a list of all
   
   1966 - [PDP-10](http://simh.trailing-edge.com/), [other emulators](https://www.inwap.com/pdp10/emulators/), [PDP-10 enthusiast group](https://github.com/PDP-10)
   
+  1966 - [PDP-10 KA / KI / KL](https://github.com/simh/simh)
+  
   1966 - [SDS 940](http://simh.trailing-edge.com/)
+  
+  1966 - [CDC 1700](https://github.com/simh/simh)
   
   1966 - [Xerox Sigma 32bit systems](http://simh.trailing-edge.com/)
   
@@ -122,7 +144,7 @@ Being an obsessed, compulsive hoarder I decided to try and compile a list of all
   
   1966/- [Interdata 16b and 32b systems](http://simh.trailing-edge.com/)
   
-  1968 - [BESM-6](http://www.mailcom.com/besm6/)
+  1968 - [BESM-6](http://www.mailcom.com/besm6/), [SimH](https://github.com/simh/simh)
   
   1969 - [Data General Nova](http://simh.trailing-edge.com/), [alt](https://github.com/rockview/nova), [Novas Are Forever emulator](http://www.novasareforever.org/novajs/index.php)
   
@@ -148,6 +170,8 @@ Being an obsessed, compulsive hoarder I decided to try and compile a list of all
   
   1971 - [Phillips P855/860](https://www.theoengel.nl/P800/p800sim.html)
   
+  1971? - [FRED 1](https://www.emma02.hobby-site.com/)
+  
   1972 - [GRI-99](http://simh.trailing-edge.com/)
   
   1972 - [HP-9800 Series](https://github.com/go9800/GO9800)
@@ -160,17 +184,23 @@ Being an obsessed, compulsive hoarder I decided to try and compile a list of all
   
   1973 - [HP-80 Calculator](https://nonpareil.brouhaha.com/)
   
+  1973/1977 - [Rockwell Calculators](http://www.anita-simulators.org.uk/)
+  
   1973 - [Intel Intellec Series, supported by Mame](https://www.mamedev.org/)
   
   1973 - [Wang 2200](https://www.wang2200.org/emu.html), [github alt](https://github.com/jtbattle/wangemu)
   
   1973 - [Xerox Alto](https://github.com/livingcomputermuseum/ContrAlto), [SALTO](http://toastytech.com/guis/salto.html)
   
+  1974 - [SCELBI](https://github.com/simh/simh)
+  
   1974 - [MCM 70](http://www.cs.yorku.ca/museum/mcm70E/MCM70E_general_info)
   
   1974 - [Data General Eclipse](http://simh.trailing-edge.com/), [mvemg emu](https://github.com/SMerrony/mvemg)
   
   1974 - [MU5](https://www.computerconservationsociety.org/software/mu5/base.htm)
+  
+  1974 - [FRED 1.5](https://www.emma02.hobby-site.com/)
   
   1975 - [HP-25 Calculator](https://www.hpmuseum.org/simulate/simulate.htm), [Nonpareil](https://nonpareil.brouhaha.com/)
   
@@ -183,6 +213,8 @@ Being an obsessed, compulsive hoarder I decided to try and compile a list of all
   1975 - [MITS Altair 8800, supported by MAME](https://www.mamedev.org/),[SimH](http://simh.trailing-edge.com/), [faithful online simulator](https://s2js.com/altair/), [Altair-rfp](https://www.emutopia.com/index.php/emulators/item/310-altair-8800/134-altair-rfp), [z80pack](https://www.autometer.de/unix4fun/z80pack/), [EmuGenWiki page](https://emulation.gametechwiki.com/index.php/Altair_8800)
   
   1975 - [IMSAI 8080](https://www.autometer.de/unix4fun/z80pack/)
+  
+  1975 - [RCA Coin Arcade](https://www.emma02.hobby-site.com/)
   
   1975 - [SWTPc 6800, supported by MAME](https://www.mamedev.org/), [6800/6809 Emulator](http://www.evenson-consulting.com/swtpc/default.htm), [SimH](https://github.com/simh/simh), [EXORsim](http://exorsim.sourceforge.net/)
   
@@ -200,23 +232,43 @@ Being an obsessed, compulsive hoarder I decided to try and compile a list of all
   
   1976 - [Rockwell AIM 65, supported by MAME](https://www.mamedev.org/), [EMU65](https://github.com/dvejmz/EMU65)
   
+  1976 - [RCA Microtutor/Microtutor II](https://www.emma02.hobby-site.com/)
+  
   1976 - [Terak 8510/a, supported by MAME](https://www.mamedev.org/), [Bk/Terak Emu](http://bk-terak-emu.sourceforge.net/)
   
-  1976 - [COSMAC ELF](http://www.elf-emulation.com/emulator.html)
+  1976 - [COSMAC ELF](http://www.elf-emulation.com/emulator.html), [emma-02](https://www.emma02.hobby-site.com/)
+  
+  1976 - [COSMAC ELF 2000](https://www.emma02.hobby-site.com/)
   
   1976 - [Phillips P856](https://www.theoengel.nl/P800/p856sim.html)
   
   197? - [Phillips P85x](https://www.theoengel.nl/P800/P85x/index.html)
   
+  1977 - [Infinite UC1800](https://www.emma02.hobby-site.com/)
+  
   1977 - [VAX-11/780](http://simh.trailing-edge.com/)
   
-  1977 - [RCA Studio II/III](https://github.com/ajavamind/rca-studio2), [Elf Emulator](http://www.elf-emulation.com/emulator.html)
+  1977 - [COSMAC VIP/VIP II](https://www.emma02.hobby-site.com/)
+  
+  1977 - [V-ELF](https://www.emma02.hobby-site.com/)
+  
+  1977 - [Telmac 1800](https://www.emma02.hobby-site.com/)
+  
+  1977 - [RCA Studio II/III](https://github.com/ajavamind/rca-studio2), [Elf Emulator](http://www.elf-emulation.com/emulator.html), [emma-02](https://www.emma02.hobby-site.com/)
+  
+  unreleased - [RCA Studio IV](https://www.emma02.hobby-site.com/)
   
   1977 - [Compucolor II](http://www.compucolor.org/emu.html)
   
-  1978 - [Netronics Elf II](http://www.elf-emulation.com/emulator.html)
+  1978 - [Visicom COM-100](https://www.emma02.hobby-site.com/)
   
-  1978 - [Quest Super Elf](http://www.elf-emulation.com/emulator.html)
+  1978 - [Netronics Elf II](http://www.elf-emulation.com/emulator.html), [emma-02](https://www.emma02.hobby-site.com/)
+  
+  1978 - [Quest Super Elf](http://www.elf-emulation.com/emulator.html), [emma-02](https://www.emma02.hobby-site.com/)
+  
+  1978 - [Victory MPT-02](https://www.emma02.hobby-site.com/)
+  
+  1978 - [HP 3000 Series III](https://github.com/simh/simh)
   
   1978 - [HP-32E](https://nonpareil.brouhaha.com/)
   
@@ -232,11 +284,35 @@ Being an obsessed, compulsive hoarder I decided to try and compile a list of all
   
   1979 - [HP-41C](https://www.hpmuseum.org/simulate/simulate.htm), [Nonpareil](https://nonpareil.brouhaha.com/)
   
+  1979? - [Cosmicos](https://www.emma02.hobby-site.com/)
+  
   1980 - [HP-41CV](https://nonpareil.brouhaha.com/)
+  
+  1980 - [Oscom Nano](https://www.emma02.hobby-site.com/)
+  
+  1980 - [VAX-11/750](https://github.com/simh/simh)
+  
+  1980 - [Elektronika BK-0011M](http://bk-terak-emu.sourceforge.net/)
+  
+  1980? - [Telmac 2000](https://www.emma02.hobby-site.com/)
+  
+  1980? - [Cidelsa](https://www.emma02.hobby-site.com/)
   
   1981 - [BBC Micro](https://emulation.gametechwiki.com/index.php/BBC_Micro_emulators)
   
+  1981 - [PDQ-3](https://github.com/simh/simh)
+  
+  1981? - [ETI 660](https://www.emma02.hobby-site.com/)
+  
   1982 - [Olivetti M20, supported by MAME](https://www.mamedev.org/)
+  
+  1982 - [Telmac TMC-600](https://www.emma02.hobby-site.com/)
+  
+  1982 - [VAX-11/730](https://github.com/simh/simh)
+  
+  1982 - [Beta SAGE-II](https://github.com/simh/simh)
+  
+  1982 - [MCDS, Microboard Computer Development System](https://www.emma02.hobby-site.com/)
   
   1982 - [HP-16C](https://www.hpmuseum.org/simulate/simulate.htm)
   
@@ -244,14 +320,48 @@ Being an obsessed, compulsive hoarder I decided to try and compile a list of all
   
   1983 - [HP-41CX](https://nonpareil.brouhaha.com/)
   
-  1983 - [COMX-35](http://www.elf-emulation.com/emulator.html)
-  
   1983 - [Electronika BK-0010](http://bk-terak-emu.sourceforge.net/)
+  
+  1983 - [COMX-35](http://www.elf-emulation.com/emulator.html), [emma-02](https://www.emma02.hobby-site.com/)
+  
+  1984 - [COMIX-35, open source clone of COMX-35](https://www.emma02.hobby-site.com/)
+  
+  1984 - [VAXstation I / MicroVAX I](https://github.com/simh/simh)
+  
+  1984 - [VAX 8600/8650](https://github.com/simh/simh)
+  
+  1984 - [RCA Microdisk Development System MS2000](https://www.emma02.hobby-site.com/)
+  
+  1984 - [AT&T 3B2](https://github.com/simh/simh)
+  
+  1985 - [Pecom 32 and 64](https://www.emma02.hobby-site.com/)
+  
+  1985 - [VAXstation II / VAXstation II/GPX / MicroVAX II](https://github.com/simh/simh)
+  
+  1986 - [VAX 8200/8250](https://github.com/simh/simh)
+  
+  1987 - [rtVAX 1000/Industrial VAX 620](https://github.com/simh/simh)
+  
+  1987 - [VAXstation 2000 / MicroVAX 2000}(https://github.com/simh/simh)
+  
+  1987 - [MicroVAX 3100 M10 / M10e / M20 / M20E](https://github.com/simh/simh)
   
   1989 - [MicroVAX 3900](http://simh.trailing-edge.com/)
   
-  1980 - [Elektronika BK-0011M](http://bk-terak-emu.sourceforge.net/)
+  1989 - [VAXstation 3100 M30 / M38 / M76](https://github.com/simh/simh)
 
   1990 - [IBM System/390](http://www.hercules-390.org/)
   
+  1990s? - [Infoserver 100 / 150 VXT / 1000](https://github.com/simh/simh)
+  
+  1991 - [VAXstation 4000 VLC / M60](https://github.com/simh/simh)
+  
+  1993 - [MicroVAX 3100 M80](https://github.com/simh/simh)
+  
   2000 - [IBM z/Architecture](http://www.hercules-390.org/)
+  
+  ???? - [Membership Card/VIP2K Membership Card](https://www.emma02.hobby-site.com/)
+  
+  19__ - [Intel Systems 8010 and 8020](https://github.com/simh/simh)
+  
+  19__ - [RCA Microboard System](https://www.emma02.hobby-site.com/)
