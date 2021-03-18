@@ -121,6 +121,8 @@ Be aware, these aren't the only machines that can be emulated. I haven't really 
   
   1964 - [Burroughs B5500](https://github.com/simh/simh)
   
+  1964 - [Наири/Nairi](http://bashkiria-2m.narod.ru/)
+  
   1965 - [ICL/ICL9000](https://www.computerconservationsociety.org/software/ict1900/base.htm)
   
   1965 - [PDP-7](http://simh.trailing-edge.com/)
@@ -364,7 +366,7 @@ Victor, Hector, Hector HR, Hector HR +, Hector HRX, Hector HR MX 40 columns, Hec
   
   1980 - [VAX-11/750](https://github.com/simh/simh)
   
-  1980 - [Elektronika BK-0011M](http://bk-terak-emu.sourceforge.net/)
+  198x - [Elektronika BK-0011M](http://bk-terak-emu.sourceforge.net/), [alt](http://bashkiria-2m.narod.ru/)
   
   1980? - [Telmac 2000](https://www.emma02.hobby-site.com/)
   
@@ -466,7 +468,9 @@ Victor, Hector, Hector HR, Hector HR +, Hector HRX, Hector HR MX 40 columns, Hec
   
   1983 - [MSX, MSX2, MSX2+, TurboR](http://emulation.gametechwiki.com/index.php/MSX_emulators), [online msx](https://webmsx.org/)
   
-  1983 - [Electronika BK-0010](http://bk-terak-emu.sourceforge.net/)
+  1983 - [Electronika BK-0010](http://bk-terak-emu.sourceforge.net/), [alt](http://bashkiria-2m.narod.ru/)
+  
+  1983 - [ДВК/DVK / ДВК-2/DVK-2](http://bashkiria-2m.narod.ru/)
   
   1983 - [Apple Lisa](https://emulation.gametechwiki.com/index.php/Apple_Lisa_emulators)
   
@@ -480,7 +484,11 @@ Victor, Hector, Hector HR, Hector HR +, Hector HRX, Hector HR MX 40 columns, Hec
   
   1983 - [Timex TS 2068](https://github.com/chernandezba/zesarux/)
   
+  1983 - [Микро-80/Micro-80](http://bashkiria-2m.narod.ru/)
+  
   1983 - [Olivetti M24](https://pcem-emulator.co.uk/)
+  
+  1983 - [Panasonic JR-200](https://find-jr200.github.io/vjr200_en.html), [older emulator](http://www.geocities.ws/emucompboy/)
   
   1983 - [Matra Alice 32](http://alice32.free.fr/)
   
@@ -505,6 +513,8 @@ Victor, Hector, Hector HR, Hector HR +, Hector HRX, Hector HR MX 40 columns, Hec
   1984 - [Thomson MO5, MO5E, MO5N, MO5NR](http://dcmoto.free.fr/emulateur/index.html)
   
   1984 - [Philips / Radiola / Schneider VG5000µ](http://dcvg5k.free.fr/)
+  
+  1984 - [Robotron KC85](http://www.kc85emu.de/), [online virtualkc](https://floooh.github.io/virtualkc/), [KC85 Emu](https://lanale.de/kc85_emu/KC85_Emu.html), [JKCEMU](http://www.jens-mueller.org/jkcemu/), [kcemu](https://sourceforge.net/projects/kcemu/)
   
   1984 - [Amstrad CPC 464, 664, 6128](http://www.emucamp.com/amstrad_cpc.html), [online version](https://www.retrovm.com/)
   
@@ -550,11 +560,17 @@ Victor, Hector, Hector HR, Hector HR +, Hector HRX, Hector HR MX 40 columns, Hec
   
   1984? - [Агат-7/Agat-7](http://bashkiria-2m.narod.ru/)
   
+  1984 - [Galaksija](http://bashkiria-2m.narod.ru/)
+  
   1984? - [Commodore PC-30 III](https://pcem-emulator.co.uk/)
   
   1985 - [Pecom 32 and 64](https://www.emma02.hobby-site.com/)
   
   1985 - [Atari ST](https://emulation.gametechwiki.com/index.php/Atari_ST_Line)
+  
+  1985 - [Специалист/Specialist](http://bashkiria-2m.narod.ru/)
+  
+  1985 - [Robotron PC 1715](http://bashkiria-2m.narod.ru/)
   
   1985 - [Enterprise](http://ep128emu.sourceforge.net/), [ep32emu](http://web.axelero.hu/egzo/ep/epemu.html), [online version](http://ep.lgb.hu/jsep/)
   
@@ -578,6 +594,8 @@ Victor, Hector, Hector HR, Hector HR +, Hector HRX, Hector HR MX 40 columns, Hec
   
   1985 - [VTech Type-right machine](http://amigan.1emu.net/)
   
+  1985 - [Ириша/Irisha](http://bashkiria-2m.narod.ru/)
+  
   1985 - [Sega System 16 and similar](https://github.com/barry65536/FBAlpha)
   
   1985 - [VAXstation II / VAXstation II/GPX / MicroVAX II](https://github.com/simh/simh)
@@ -592,15 +610,23 @@ Victor, Hector, Hector HR, Hector HR +, Hector HRX, Hector HR MX 40 columns, Hec
   
   1986 - [Toshiba T3100e](https://pcem-emulator.co.uk/)
   
+  1986 - [Nintendo Famicom Disk System](https://emulation.gametechwiki.com/index.php/Nintendo_Entertainment_System_emulators)
+  
   1986 - [Atari 7800](https://emulation.gametechwiki.com/index.php/Atari_7800_emulators)
   
   1986 - [Oric Telestrat](https://github.com/pete-gordon/oricutron)
+  
+  1986 - [Львов ПК-01/PC-01 "Lviv"](http://bashkiria-2m.narod.ru/)
+  
+  1986 - [Радио-86РК/Radio-86RK](http://bashkiria-2m.narod.ru/)
   
   1986 - [Compaq Portable II](https://pcem-emulator.co.uk/)
   
   1986 - [Exelvision Exeltel, Exeltel VS, Exeltel VX, Amper, Comtel](http://dcexel.free.fr/)
   
   1986 - [Videoton-TV Computer](http://gaia.atilia.eu/downloads/)
+  
+  1986 - [Океан-240/Ocean-240](http://bashkiria-2m.narod.ru/)
   
   1986 - [Thomson MO6/Olivetti Prodest PC 128](http://dcmoto.free.fr/emulateur/index.html)
   
@@ -624,6 +650,12 @@ Victor, Hector, Hector HR, Hector HR +, Hector HRX, Hector HR MX 40 columns, Hec
   
   1987 - [VTech Laser Turbo XT](https://pcem-emulator.co.uk/)
   
+  1987 - [Микроша/Mikrosha](http://bashkiria-2m.narod.ru/)
+  
+  1987 - [Партнёр/Partner](http://bashkiria-2m.narod.ru/)
+  
+  1987 - [ПК 8000 Сура/Веста/Хобби / PK8000 Sura/Vesta/Hobby](http://bashkiria-2m.narod.ru/)
+  
   1987 - [IBM PS/2 Model 30-286 / 50 / 55SX / 70(type 3 and 4) / 80](https://pcem-emulator.co.uk/)
   
   1987 - [Cambridge Z88](https://github.com/chernandezba/zesarux/), [OZvm](https://sourceforge.net/projects/z88/files/emulator/)
@@ -631,6 +663,10 @@ Victor, Hector, Hector HR, Hector HR +, Hector HRX, Hector HR MX 40 columns, Hec
   1987 - [Acorn Archimedes](http://b-em.bbcmicro.com/arculator/), [ArcEm](http://arcem.sourceforge.net/)
   
   1987 - [Sega X-Board](https://github.com/barry65536/FBAlpha)
+  
+  1987 - [Корвет/Corvette](http://bashkiria-2m.narod.ru/)
+  
+  1987 - [Вектор-06ц/Vector-06c / Вектор Старт-1200/Vector Start-1200 / Криста-2/Christa-2](http://bashkiria-2m.narod.ru/)
   
   1987? - [Taito Y](https://github.com/barry65536/FBAlpha)
   
@@ -650,6 +686,8 @@ Victor, Hector, Hector HR, Hector HR +, Hector HRX, Hector HR MX 40 columns, Hec
   
   1988 - [Апогей/Apogee](http://bashkiria-2m.narod.ru/)
   
+  1988 - [Juku](http://bashkiria-2m.narod.ru/)
+  
   1988 - [Schneider Euro PC](https://pcem-emulator.co.uk/)
   
   1988 - [Amstrad PC2086](https://pcem-emulator.co.uk/)
@@ -662,6 +700,10 @@ Victor, Hector, Hector HR, Hector HR +, Hector HRX, Hector HR MX 40 columns, Hec
   
   1988 - [Sega Y-Board](https://github.com/barry65536/FBAlpha)
   
+  1988 - [Эрик/Eric](http://bashkiria-2m.narod.ru/)
+  
+  1988 - [Микролаб КР580ИК80/Mikrolab KR580IK80](http://bashkiria-2m.narod.ru/)
+  
   1988? - [Toaplan 1](https://github.com/barry65536/FBAlpha)
   
   1988? - [Taito F2](https://github.com/barry65536/FBAlpha)
@@ -671,6 +713,18 @@ Victor, Hector, Hector HR, Hector HR +, Hector HRX, Hector HR MX 40 columns, Hec
   1988 - [SEGA Genesis/Mega Drive](http://emulation.gametechwiki.com/index.php/Sega_Genesis_emulators), [online emulator](https://megadrive-emulator.com/), [Genesis Plus GX Wide](https://www.libretro.com/index.php/genesis-plus-gx-wide-now-available-for-libretroretroarch/)
   
   1989 - [MicroVAX 3900](http://simh.trailing-edge.com/)
+  
+  1989 - [Байт/Byte](http://bashkiria-2m.narod.ru/)
+  
+  1989 - [МС 2721](http://bashkiria-2m.narod.ru/)
+  
+  1989 - [ПК 8002 Эльф / PK 8002 Elf](http://bashkiria-2m.narod.ru/)
+  
+  1989 - [Поиск-1/Poisk-1](http://bashkiria-2m.narod.ru/)
+  
+  1989 - [Юниор ФВ-6506/Junior FV-6506](http://bashkiria-2m.narod.ru/)
+  
+  1989 - [ЮТ-88/UT-88](http://bashkiria-2m.narod.ru/)
   
   1989? - [АРМ-ШК Башкирия, Башкирия-2М/ ARM-ShK Bashkiria, Bashkiria-2M](http://bashkiria-2m.narod.ru/)
   
@@ -684,6 +738,8 @@ Victor, Hector, Hector HR, Hector HR +, Hector HRX, Hector HR MX 40 columns, Hec
   
   1989 - [Pentagon/Пентагон](https://github.com/chernandezba/zesarux/)
   
+  1989 - [ЛИК/LIK](http://bashkiria-2m.narod.ru/)
+  
   1989 - [NMK16](https://github.com/barry65536/FBAlpha)
   
   1989 - [Intel 80486/Intel 486](https://emulation.gametechwiki.com/index.php/Intel_CPUs)
@@ -693,6 +749,10 @@ Victor, Hector, Hector HR, Hector HR +, Hector HRX, Hector HR MX 40 columns, Hec
   1989 - [VAXstation 3100 M30 / M38 / M76](https://github.com/simh/simh)
 
   1990 - [IBM System/390](http://www.hercules-390.org/)
+  
+  1990 - [Эльф/Elf Console](http://bashkiria-2m.narod.ru/)
+  
+  1990? - [Фотон (игровой автомат)/Photon (slot machine)](http://bashkiria-2m.narod.ru/)
   
   1990 - [Commodore 64 Games System](https://vice-emu.sourceforge.io/)
   
@@ -704,11 +764,19 @@ Victor, Hector, Hector HR, Hector HR +, Hector HRX, Hector HR MX 40 columns, Hec
   
   1990 - [IBM PS/1](https://barotto.github.io/IBMulator/), [model 2011, 2121 emulator](https://pcem-emulator.co.uk/)
   
+  1990 - [Орион-128/Orion-128 / Орион-Про/Orion-Pro](http://bashkiria-2m.narod.ru/)
+  
   1990 - [Neo Geo and its variants](https://emulation.gametechwiki.com/index.php/Neo_Geo_and_variants), [online emulator](https://emulatoronline.xyz/games/neo-geo-arcade)
   
   1991 - [VAXstation 4000 VLC / M60](https://github.com/simh/simh)
   
+  1991 - [Phillips CD-i](https://emulation.gametechwiki.com/index.php/Philips_CD-i_emulators)
+  
   1991 - [Kaneko 16](https://github.com/barry65536/FBAlpha)
+  
+  1991 - [ПК-6128ц/PK-6128ts](http://bashkiria-2m.narod.ru/)
+  
+  1991 - [Специалист-МХ/Specialist-MX](http://bashkiria-2m.narod.ru/)
   
   1991? - [Toaplan 2](https://github.com/barry65536/FBAlpha)
   
@@ -733,6 +801,8 @@ Victor, Hector, Hector HR, Hector HR +, Hector HRX, Hector HR MX 40 columns, Hec
   1993 - [SEGA Pico/Advanced Pico Beena](https://emulation.gametechwiki.com/index.php/Sega_Pico)
   
   1993 - [Intel Pentium](https://emulation.gametechwiki.com/index.php/Intel_CPUs)
+  
+  1993 - [3DO Interactive Multiplayer/Panasonic 3D0](https://emulation.gametechwiki.com/index.php/3DO_emulators)
   
   1993 - [Amstrad MegaPC](https://pcem-emulator.co.uk/)
   
