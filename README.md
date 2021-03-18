@@ -1,6 +1,6 @@
 # Awesome-List-of-Emulators
 Being an obsessed, compulsive hoarder I decided to try and compile a list of all the emulators and simulators I could find on the internet for ease of access.
-Be aware, these aren't the only machines that can be emulated. I haven't really included MAME because it would be kinda cheating haha, at the time of writing it has 38049 machines ready for use, working or not. Most, if not all of these machines can be found on MAME. https://www.mamedev.org/
+Be aware, these aren't the only machines that can be emulated. I haven't really included MAME because it would be kinda cheating haha, at the time of writing it has 38049 machines ready for use, working or not. Most, if not all of these machines can be found on MAME and I tried not to include machines which are only supported there, unless they were worth mentioning. https://www.mamedev.org/
 
 ***1930s/1950s:***
 
@@ -85,7 +85,7 @@ Be aware, these aren't the only machines that can be emulated. I haven't really 
   
   1958 - [Mailüfterl](https://norbertkehrer.github.io/mailuefterl.html)
   
-  1959 - [PDP-1 - supported by MAME](https://www.mamedev.org/), [SimH emulator](http://simh.trailing-edge.com/), [FPG-1 emulator](https://github.com/hrvach/fpg1), [graphics demonstration emulator](https://www.masswerk.at/minskytron/)  
+  1959 - [PDP-1](http://simh.trailing-edge.com/), [FPG-1 emulator](https://github.com/hrvach/fpg1), [graphics demonstration emulator](https://www.masswerk.at/minskytron/)  
   
   1960 - [IBM 1401](http://simh.trailing-edge.com/), [3d simulation](https://rolffson.de/), [simplified version?](http://members.optushome.com.au/intaemul/Emul1401.htm)
   
@@ -193,8 +193,6 @@ Be aware, these aren't the only machines that can be emulated. I haven't really 
   
   1973/1977 - [Rockwell Calculators](http://www.anita-simulators.org.uk/)
   
-  1973 - [Intel Intellec Series, supported by Mame](https://www.mamedev.org/)
-  
   1973 - [Wang 2200](https://www.wang2200.org/emu.html), [github alt](https://github.com/jtbattle/wangemu)
   
   1973 - [Xerox Alto](https://github.com/livingcomputermuseum/ContrAlto), [SALTO](http://toastytech.com/guis/salto.html)
@@ -219,31 +217,31 @@ Be aware, these aren't the only machines that can be emulated. I haven't really 
   
   1975 - [MOS Technology 6502](http://www.6502.org/tools/emu/), [other emulators](https://www.zophar.net/6502.html)
   
-  1975 - [MITS Altair 8800, supported by MAME](https://www.mamedev.org/),[SimH](http://simh.trailing-edge.com/), [faithful online simulator](https://s2js.com/altair/), [Altair-rfp](https://www.emutopia.com/index.php/emulators/item/310-altair-8800/134-altair-rfp), [z80pack](https://www.autometer.de/unix4fun/z80pack/), [EmuGenWiki page](https://emulation.gametechwiki.com/index.php/Altair_8800)
+  1975 - [MITS Altair 8800](http://simh.trailing-edge.com/), [faithful online simulator](https://s2js.com/altair/), [Altair-rfp](https://www.emutopia.com/index.php/emulators/item/310-altair-8800/134-altair-rfp), [z80pack](https://www.autometer.de/unix4fun/z80pack/), [EmuGenWiki page](https://emulation.gametechwiki.com/index.php/Altair_8800)
   
   1975 - [IMSAI 8080](https://www.autometer.de/unix4fun/z80pack/)
   
   1975 - [RCA Coin Arcade](https://www.emma02.hobby-site.com/)
   
-  1975 - [SWTPc 6800, supported by MAME](https://www.mamedev.org/), [6800/6809 Emulator](http://www.evenson-consulting.com/swtpc/default.htm), [SimH](https://github.com/simh/simh), [EXORsim](http://exorsim.sourceforge.net/)
+  1975 - [SWTPc 6800](http://www.evenson-consulting.com/swtpc/default.htm), [SimH](https://github.com/simh/simh), [EXORsim](http://exorsim.sourceforge.net/)
   
   1976 - [Cromemco Z-1](https://www.autometer.de/unix4fun/z80pack/)
   
   1976? - [CDP18S020 Evaluation Kit](https://www.emma02.hobby-site.com/)
   
-  1976 = [Apple I, supported by MAME](https://www.mamedev.org/), [EmuGenWiki page](https://emulation.gametechwiki.com/index.php/Apple_I_emulators)
+  1976 = [Apple I](https://emulation.gametechwiki.com/index.php/Apple_I_emulators)
   
-  1976 - [MOS Technology KIM-1, supported by MAME](https://www.mamedev.org/), [KIMplement](https://www.floodgap.com/retrobits/kim-1/), [Soft6502](http://www.crbond.com/soft6502.htm)
+  1976 - [MOS Technology KIM-1](https://www.floodgap.com/retrobits/kim-1/), [Soft6502](http://www.crbond.com/soft6502.htm)
   
-  1976 - [Polymorphic Poly 88, supported by MAME](https://www.mamedev.org/), [Poly Emulator](https://deramp.com/polymorphic-computers/emu88.html)
+  1976 - [Polymorphic Poly 88](https://deramp.com/polymorphic-computers/emu88.html)
   
-  1976 - [Processor Technology SOL-20, supported by MAME](https://www.mamedev.org/), [Solace](https://www.sol20.org/solace.html)
+  1976 - [Processor Technology SOL-20](https://www.sol20.org/solace.html)
   
-  1976 - [Rockwell AIM 65, supported by MAME](https://www.mamedev.org/), [EMU65](https://github.com/dvejmz/EMU65)
+  1976 - [Rockwell AIM 65](https://github.com/dvejmz/EMU65)
   
   1976 - [RCA Microtutor/Microtutor II](https://www.emma02.hobby-site.com/)
   
-  1976 - [Terak 8510/a, supported by MAME](https://www.mamedev.org/), [Bk/Terak Emu](http://bk-terak-emu.sourceforge.net/)
+  1976 - [Terak 8510/a](http://bk-terak-emu.sourceforge.net/)
   
   1976 - [Fairchild Channel F](https://emulation.gametechwiki.com/index.php/Fairchild_Channel_F_emulators)
   
@@ -279,7 +277,7 @@ Be aware, these aren't the only machines that can be emulated. I haven't really 
   
   1977 - [TRS-80 Model I/II/III/4](http://www.trs-80.com/wordpress/emulators/), [Matthew Reed's emulators](http://www.trs-80emulators.com/#emulators)
   
-  1977 - [MK-14, supported by MAME](https://www.mamedev.org/), [ZEsarUX](https://github.com/chernandezba/zesarux/)
+  1977 - [MK-14](https://github.com/chernandezba/zesarux/)
   
   1977 - [Dolphin trainer](http://amigan.1emu.net/)
   
@@ -449,6 +447,8 @@ Victor, Hector, Hector HR, Hector HR +, Hector HRX, Hector HR MX 40 columns, Hec
   1983 - [SEGA SG-1000/SC-3000](https://emulation.gametechwiki.com/index.php/SG-1000_emulators)
   
   1983 - [NES](https://emulation.gametechwiki.com/index.php/Nintendo_Entertainment_System_emulators)
+  
+  1983 - [Phillips Videopac+ G7400](http://o2em.sourceforge.net/) 
   
   1983 - [MSX, MSX2, MSX2+, TurboR](http://emulation.gametechwiki.com/index.php/MSX_emulators), [online msx](https://webmsx.org/)
   
@@ -640,6 +640,8 @@ Victor, Hector, Hector HR, Hector HR +, Hector HRX, Hector HR MX 40 columns, Hec
 
   1990 - [IBM System/390](http://www.hercules-390.org/)
   
+  1990 - [Commodore 64 Games System](https://vice-emu.sourceforge.io/)
+  
   1990? - [Amstrad PC3086/PC5086](https://pcem-emulator.co.uk/)
   
   1990s? - [Infoserver 100 / 150 VXT / 1000](https://github.com/simh/simh)
@@ -655,6 +657,8 @@ Victor, Hector, Hector HR, Hector HR +, Hector HRX, Hector HR MX 40 columns, Hec
   1991 - [SEGA Game Gear](https://emulation.gametechwiki.com/index.php/Master_System_emulators)
   
   1992 - [SEGA Model 1](https://emulation.gametechwiki.com/index.php/Sega_Model_1)
+  
+  1992 - [Dendy](http://emulation.gametechwiki.com/index.php/Nintendo_Entertainment_System_emulators#Dendy)
   
   1992? - [Acermate 386SX/25N](https://pcem-emulator.co.uk/)
   
