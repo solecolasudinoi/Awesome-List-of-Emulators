@@ -1,5 +1,6 @@
 # Awesome-List-of-Emulators
-Being an obsessed, compulsive hoarder I decided to try and compile a list of all the emulators and simulators I could find, mostly for vintage hardware and products.
+Being an obsessed, compulsive hoarder I decided to try and compile a list of all the emulators and simulators I could find on the internet for ease of access.
+Be aware, these aren't the only machines that can be emulated. I haven't really included MAME because it would be kinda cheating haha, at the time of writing it has 38049 machines ready for use, working or not. Most, if not all of these machines can be found on MAME. https://www.mamedev.org/
 
 ***1930s/1950s:***
 
@@ -92,6 +93,8 @@ Being an obsessed, compulsive hoarder I decided to try and compile a list of all
   
   1960 - [IBM 1620](http://simh.trailing-edge.com/)
   
+  1960 - [PLATO Computer System](https://emulation.gametechwiki.com/index.php/PLATO_Computer_System)
+  
   1960 - [Elliot 803](https://peteronion.org.uk/Elliott/), [alt](https://github.com/hxw/Elliott-803) 
   
   1961/1970s - [ANITA Calculators](http://www.anita-simulators.org.uk/)
@@ -169,6 +172,8 @@ Being an obsessed, compulsive hoarder I decided to try and compile a list of all
   1971 - [Hewlett-Packard HP 2100](http://simh.trailing-edge.com/), [HP 2116 emulator](http://rikers.org/hp2100/jeff/emulator/index.html), [other emulators](http://hp1000.org/)
   
   1971 - [Phillips P855/860](https://www.theoengel.nl/P800/p800sim.html)
+  
+  1971 - [Discrete Circuitry-Based Arcade Games](https://emulation.gametechwiki.com/index.php/Discrete_Circuitry-Based_Arcade_Games)
   
   1971? - [FRED 1](https://www.emma02.hobby-site.com/)
   
@@ -294,6 +299,8 @@ Being an obsessed, compulsive hoarder I decided to try and compile a list of all
   
   1978 - [Intel 8086](https://emulation.gametechwiki.com/index.php/Intel_CPUs)
   
+  1978 - [Ohio Scientific Challenger 1P](https://www.pcjs.org/)
+  
   1978 - [Signetics Instructor 50](http://amigan.1emu.net/)
   
   1978 - [Interact Family Computer and seven Micronic computers:
@@ -389,7 +396,11 @@ Victor, Hector, Hector HR, Hector HR +, Hector HRX, Hector HR MX 40 columns, Hec
   
   1982 - [Commodore 64/65](https://emulation.gametechwiki.com/index.php/Commodore_64_emulators)
   
+  1982 - [Sharp X1](https://emulation.gametechwiki.com/index.php/Sharp_X1_emulators)
+  
   1982 - [VAX-11/730](https://github.com/simh/simh)
+  
+  1982 - [CPD MPC 1600](https://www.pcjs.org/)
   
   1982 - [Commodore CBM-II](https://vice-emu.sourceforge.io/)
   
@@ -461,6 +472,8 @@ Victor, Hector, Hector HR, Hector HR +, Hector HRX, Hector HR MX 40 columns, Hec
   
   1983 - [Acorn Electron](http://elkulator.acornelectron.co.uk/), [ElectrEm](http://electrem.emuunlim.com/Downloads.html), [ElkJs](https://elkjs.azurewebsites.net/)
   
+  1983 - [Compaq Portable](https://www.pcjs.org/)
+  
   1983 - [COMX-35](http://www.elf-emulation.com/emulator.html), [emma-02](https://www.emma02.hobby-site.com/)
   
   1984 - [COMIX-35, open source clone of COMX-35](https://www.emma02.hobby-site.com/)
@@ -478,6 +491,8 @@ Victor, Hector, Hector HR, Hector HR +, Hector HRX, Hector HR MX 40 columns, Hec
   1984 - [Oric Atmos](https://github.com/pete-gordon/oricutron)
   
   1984 - [IBM PCjr](https://emulation.miraheze.org/wiki/IBM_PC/XT_emulators), [online emulator](https://www.pcjs.org/)
+  
+  1984 - [IBM AT](https://emulation.miraheze.org/wiki/IBM_PC/XT_emulators)
   
   1984 - [Apple Macintosh](https://emulation.gametechwiki.com/index.php/Macintosh_line)
   
@@ -499,9 +514,15 @@ Victor, Hector, Hector HR, Hector HR +, Hector HRX, Hector HR MX 40 columns, Hec
   
   1984 - [Tandy 1000/1000HX/1000SL/2](https://pcem-emulator.co.uk/)
   
-  1984 - [Compaq Deskpro](https://pcem-emulator.co.uk/)
+  1984 - [Compaq Deskpro/Deskpro 386](https://pcem-emulator.co.uk/)
   
   1984 - [AT&T 3B2](https://github.com/simh/simh)
+  
+  1984 - [AT&T 6300](https://www.pcjs.org/)
+  
+  1984 - [Zenith Z-150](https://www.pcjs.org/)
+  
+  1984? - [Commodore PC-30 III](https://pcem-emulator.co.uk/)
   
   1985 - [Pecom 32 and 64](https://www.emma02.hobby-site.com/)
   
@@ -535,9 +556,15 @@ Victor, Hector, Hector HR, Hector HR +, Hector HRX, Hector HR MX 40 columns, Hec
   
   1986 - [Amstrad PC1640](https://pcem-emulator.co.uk/)
   
+  1986 - [IBM XT Model 286](https://pcem-emulator.co.uk/)
+  
+  1986 - [Toshiba T3100e](https://pcem-emulator.co.uk/)
+  
   1986 - [Atari 7800](https://emulation.gametechwiki.com/index.php/Atari_7800_emulators)
   
   1986 - [Oric Telestrat](https://github.com/pete-gordon/oricutron)
+  
+  1986 - [Compaq Portable II](https://pcem-emulator.co.uk/)
   
   1986 - [Exelvision Exeltel, Exeltel VS, Exeltel VX, Amper, Comtel](http://dcexel.free.fr/)
   
@@ -563,11 +590,19 @@ Victor, Hector, Hector HR, Hector HR +, Hector HRX, Hector HR MX 40 columns, Hec
   
   1987 - [VTech Laser Turbo XT](https://pcem-emulator.co.uk/)
   
+  1987 - [IBM PS/2 Model 30-286 / 50 / 55SX / 70(type 3 and 4) / 80](https://pcem-emulator.co.uk/)
+  
   1987 - [Cambridge Z88](https://github.com/chernandezba/zesarux/), [OZvm](https://sourceforge.net/projects/z88/files/emulator/)
   
   1987 - [Acorn Archimedes](http://b-em.bbcmicro.com/arculator/), [ArcEm](http://arcem.sourceforge.net/)
   
+  1987 - [Sharp X68000](https://emulation.gametechwiki.com/index.php/Sharp_X68000_emulators) 
+  
+  1987 - [Action Max](https://kangaroopunch.com/?page=Software/3000-2006-singe.xjs)
+  
   1987 - [PC Engine/ Turbografx-16](https://emulation.gametechwiki.com/index.php/PC_Engine_(TurboGrafx-16)_emulators)
+  
+  1987 - [Atari XEGS](https://emulation.gametechwiki.com/index.php/Atari_8-bit#Atari_XEGS)
   
   1988 - [Atari PC3](https://pcem-emulator.co.uk/)
   
@@ -580,6 +615,10 @@ Victor, Hector, Hector HR, Hector HR +, Hector HRX, Hector HR MX 40 columns, Hec
   1988 - [Amstrad Sinclair PC200/PC20](https://pcem-emulator.co.uk/)
   
   1988 - [Amstrad PPC512/640](https://pcem-emulator.co.uk/)
+  
+  1988 - [Dell System 200](https://pcem-emulator.co.uk/)
+  
+  1988 - [Epson PC AX/AX2e/AX3](https://pcem-emulator.co.uk/)
   
   1988 - [SEGA Genesis/Mega Drive](http://emulation.gametechwiki.com/index.php/Sega_Genesis_emulators), [online emulator](https://megadrive-emulator.com/), [Genesis Plus GX Wide](https://www.libretro.com/index.php/genesis-plus-gx-wide-now-available-for-libretroretroarch/)
   
@@ -607,13 +646,17 @@ Victor, Hector, Hector HR, Hector HR +, Hector HRX, Hector HR MX 40 columns, Hec
   
   1990 - [SNES/Super Famicom](https://emulation.gametechwiki.com/index.php/Super_Nintendo_emulators)
   
-  1990 - [IBM PS/1](https://barotto.github.io/IBMulator/)
+  1990 - [IBM PS/1](https://barotto.github.io/IBMulator/), [model 2011, 2121 emulator](https://pcem-emulator.co.uk/)
+  
+  1990 - [Neo Geo and its variants](https://emulation.gametechwiki.com/index.php/Neo_Geo_and_variants), [online emulator](https://emulatoronline.xyz/games/neo-geo-arcade)
   
   1991 - [VAXstation 4000 VLC / M60](https://github.com/simh/simh)
   
   1991 - [SEGA Game Gear](https://emulation.gametechwiki.com/index.php/Master_System_emulators)
   
   1992 - [SEGA Model 1](https://emulation.gametechwiki.com/index.php/Sega_Model_1)
+  
+  1992? - [Acermate 386SX/25N](https://pcem-emulator.co.uk/)
   
   1993 - [MicroVAX 3100 M80](https://github.com/simh/simh)
   
@@ -622,6 +665,10 @@ Victor, Hector, Hector HR, Hector HR +, Hector HRX, Hector HR MX 40 columns, Hec
   1993 - [SEGA Pico/Advanced Pico Beena](https://emulation.gametechwiki.com/index.php/Sega_Pico)
   
   1993 - [Intel Pentium](https://emulation.gametechwiki.com/index.php/Intel_CPUs)
+  
+  1993 - [Amstrad MegaPC](https://pcem-emulator.co.uk/)
+  
+  1993 - [Elonex PC-425X](https://pcem-emulator.co.uk/)
   
   1993 - [Psion Series 3](http://www.primrosebank.net/computers/pda/psion3a/psion3a_software_emulators.htm)
   
@@ -687,9 +734,15 @@ Victor, Hector, Hector HR, Hector HR +, Hector HRX, Hector HR MX 40 columns, Hec
   
   2004 - [SEGA System SP](https://emulation.gametechwiki.com/index.php/Sega_NAOMI_and_variants)
   
+  2004 - [Taito TypeX and its variants](https://emulation.gametechwiki.com/index.php/Taito_Type_X_and_variants)
+  
   2004/2008 - [Cave CV1000B/CV1000D](https://emulation.gametechwiki.com/index.php/Sega_NAOMI_and_variants)
   
+  2005 - [Xbox 360](https://emulation.gametechwiki.com/index.php/Xbox_360_emulators)
+  
   2006 - [Nintendo Wii](https://emulation.gametechwiki.com/index.php/Wii_emulators)
+  
+  2006 - [Playstation 3](https://emulation.gametechwiki.com/index.php/PlayStation_3_emulators)
   
   2009 - [Nintendo DSi](https://emulation.gametechwiki.com/index.php/Nintendo_DSi_emulators)
   
@@ -700,6 +753,8 @@ Victor, Hector, Hector HR, Hector HR +, Hector HRX, Hector HR MX 40 columns, Hec
   2017 - [Nintendo Switch](https://emulation.gametechwiki.com/index.php/Nintendo_Switch_emulators)
   
   ???? - [Membership Card/VIP2K Membership Card](https://www.emma02.hobby-site.com/)
+  
+  19__ - [Packard Bell Legend SX300](https://pcem-emulator.co.uk/)
   
   19__ - [Bull Micral 45](https://pcem-emulator.co.uk/)
   
