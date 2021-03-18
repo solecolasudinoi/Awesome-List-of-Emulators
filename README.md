@@ -548,6 +548,8 @@ Victor, Hector, Hector HR, Hector HR +, Hector HRX, Hector HR MX 40 columns, Hec
   
   1984 - [Super Cassette Vision](http://takeda-toshiya.my.coocan.jp/)
   
+  1984? - [Агат-7/Agat-7](http://bashkiria-2m.narod.ru/)
+  
   1984? - [Commodore PC-30 III](https://pcem-emulator.co.uk/)
   
   1985 - [Pecom 32 and 64](https://www.emma02.hobby-site.com/)
@@ -646,6 +648,8 @@ Victor, Hector, Hector HR, Hector HR +, Hector HRX, Hector HR MX 40 columns, Hec
   
   1988 - [Capcom Play System 1](https://github.com/barry65536/FBAlpha), [WinKawaks](http://www.winkawaks.org/)
   
+  1988 - [Апогей/Apogee](http://bashkiria-2m.narod.ru/)
+  
   1988 - [Schneider Euro PC](https://pcem-emulator.co.uk/)
   
   1988 - [Amstrad PC2086](https://pcem-emulator.co.uk/)
@@ -667,6 +671,8 @@ Victor, Hector, Hector HR, Hector HR +, Hector HRX, Hector HR MX 40 columns, Hec
   1988 - [SEGA Genesis/Mega Drive](http://emulation.gametechwiki.com/index.php/Sega_Genesis_emulators), [online emulator](https://megadrive-emulator.com/), [Genesis Plus GX Wide](https://www.libretro.com/index.php/genesis-plus-gx-wide-now-available-for-libretroretroarch/)
   
   1989 - [MicroVAX 3900](http://simh.trailing-edge.com/)
+  
+  1989? - [АРМ-ШК Башкирия, Башкирия-2М/ ARM-ShK Bashkiria, Bashkiria-2M](http://bashkiria-2m.narod.ru/)
   
   1989 - [SAM Coupè](https://github.com/simonowen/simcoupe), [zesarux](https://github.com/chernandezba/zesarux/)
   
@@ -731,6 +737,8 @@ Victor, Hector, Hector HR, Hector HR +, Hector HRX, Hector HR MX 40 columns, Hec
   1993 - [Amstrad MegaPC](https://pcem-emulator.co.uk/)
   
   1993 - [Elonex PC-425X](https://pcem-emulator.co.uk/)
+  
+  1993 - [Алеста 520ЕХ/ Alesta 520EX](http://bashkiria-2m.narod.ru/)
   
   1993 - [Psion Series 3](http://www.primrosebank.net/computers/pda/psion3a/psion3a_software_emulators.htm)
   
