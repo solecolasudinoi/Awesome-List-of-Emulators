@@ -261,6 +261,8 @@ Be aware, these aren't the only machines that can be emulated. I haven't really 
   
   1977 - [COSMAC VIP/VIP II](https://www.emma02.hobby-site.com/)
   
+  1977? - [CHIP-8](https://github.com/leniad/dsp-emulator)
+  
   1977 - [Atari 2600](https://emulation.gametechwiki.com/index.php/Atari_2600_emulators)
   
   1977 - [V-ELF](https://www.emma02.hobby-site.com/)
@@ -282,6 +284,8 @@ Be aware, these aren't the only machines that can be emulated. I haven't really 
   1977 - [Dolphin trainer](http://amigan.1emu.net/)
   
   1977 - [Central Data 2650](http://amigan.1emu.net/)
+  
+  1977 - [Konami Arcade](https://github.com/barry65536/FBAlpha)
   
   1977 - [Apple II](https://emulation.gametechwiki.com/index.php/Apple_II_Line), [reddit summary](https://www.reddit.com/r/apple2/comments/65l3dm/best_apple_ii_emulators_by_os/)
   
@@ -328,11 +332,15 @@ Victor, Hector, Hector HR, Hector HR +, Hector HRX, Hector HR MX 40 columns, Hec
   
   1979 - [Atari 400/800/XL/XE](https://emulation.gametechwiki.com/index.php/Atari_8-bit)
   
+  1979 - [APF Imagination Machine](http://www.nausicaa.net/~lgreenf/apfpage.htm)
+  
   1979 - [Mattel Intellivision](https://emulation.gametechwiki.com/index.php/Intellivision_emulators)
   
   1979 - [Elektor TV Games Computer](http://amigan.1emu.net/)
   
   1979 - [Astro Wars and Galaxia coin-ops by Zaccaria](http://amigan.1emu.net/) 
+  
+  1979 - [Galaxian-based hardware](https://github.com/barry65536/FBAlpha)
   
   1979 - [Intel 8088](https://pcem-emulator.co.uk/)
   
@@ -345,6 +353,8 @@ Victor, Hector, Hector HR, Hector HR +, Hector HRX, Hector HR MX 40 columns, Hec
   1980 - [Thomson T9000](http://dcmoto.free.fr/emulateur/index.html)
   
   1980 - [Oscom Nano](https://www.emma02.hobby-site.com/)
+  
+  1980 - [Pacman based hardware](https://github.com/barry65536/FBAlpha)
   
   1980 - [Nintendo Game & Watch](https://emulation.gametechwiki.com/index.php/Game_%26_Watch)
   
@@ -361,6 +371,8 @@ Victor, Hector, Hector HR, Hector HR +, Hector HRX, Hector HR MX 40 columns, Hec
   1980? - [Cidelsa](https://www.emma02.hobby-site.com/)
   
   1981 - [BBC Micro](https://emulation.gametechwiki.com/index.php/BBC_Micro_emulators)
+  
+  1981 - [DOS](https://www.dosbox.com/)
   
   1981 - [Sinclair ZX81](https://emulation.gametechwiki.com/index.php/Sinclair_ZX81_emulators)
   
@@ -403,6 +415,8 @@ Victor, Hector, Hector HR, Hector HR +, Hector HRX, Hector HR MX 40 columns, Hec
   1982 - [Commodore CBM-II](https://vice-emu.sourceforge.io/)
   
   1982 - [Microbee](http://nanowasp.org/)
+  
+  1982 - [EACA EG2000 Colour Genie](http://gaia.atilia.eu/downloads/)
   
   1982 - [Beta SAGE-II](https://github.com/simh/simh)
   
@@ -456,9 +470,13 @@ Victor, Hector, Hector HR, Hector HR +, Hector HRX, Hector HR MX 40 columns, Hec
   
   1983 - [Apple Lisa](https://emulation.gametechwiki.com/index.php/Apple_Lisa_emulators)
   
+  1983 - [HT-1080Z/VideoGenie/System-80](http://gaia.atilia.eu/downloads/)
+  
   1983 - [Spectravideo SV-318/328](http://bluemsx.msxblue.com/download.html), [online version](https://bluemsx.com/), [zesarux](https://github.com/chernandezba/zesarux/)
   
   1983 - [TRS-80 Model 100, 102, 200](https://sourceforge.net/projects/virtualt/)
+  
+  1983 - [HomeLab Model III/IV](http://gaia.atilia.eu/downloads/)
   
   1983 - [Timex TS 2068](https://github.com/chernandezba/zesarux/)
   
@@ -474,6 +492,8 @@ Victor, Hector, Hector HR, Hector HR +, Hector HRX, Hector HR MX 40 columns, Hec
   
   1983 - [Compaq Portable](https://www.pcjs.org/)
   
+  1983 - [Sega System 1](https://github.com/barry65536/FBAlpha)
+  
   1983 - [COMX-35](http://www.elf-emulation.com/emulator.html), [emma-02](https://www.emma02.hobby-site.com/)
   
   1984 - [COMIX-35, open source clone of COMX-35](https://www.emma02.hobby-site.com/)
@@ -488,6 +508,8 @@ Victor, Hector, Hector HR, Hector HR +, Hector HRX, Hector HR MX 40 columns, Hec
   
   1984 - [Amstrad CPC 464, 664, 6128](http://www.emucamp.com/amstrad_cpc.html), [online version](https://www.retrovm.com/)
   
+  1984 - [Microkey Primo](http://gaia.atilia.eu/downloads/)
+  
   1984 - [Oric Atmos](https://github.com/pete-gordon/oricutron)
   
   1984 - [IBM PCjr](https://emulation.miraheze.org/wiki/IBM_PC/XT_emulators), [online emulator](https://www.pcjs.org/)
@@ -499,6 +521,8 @@ Victor, Hector, Hector HR, Hector HR +, Hector HRX, Hector HR MX 40 columns, Hec
   1984 - [VAXstation I / MicroVAX I](https://github.com/simh/simh)
   
   1984 - [VAX 8600/8650](https://github.com/simh/simh)
+  
+  1984 - [Irem M62, M63, M72, M90, M92 and M107](https://github.com/barry65536/FBAlpha)
   
   1984 - [Exelvision EXL100](http://dcexel.free.fr/)
   
@@ -522,6 +546,8 @@ Victor, Hector, Hector HR, Hector HR +, Hector HRX, Hector HR MX 40 columns, Hec
   
   1984 - [Zenith Z-150](https://www.pcjs.org/)
   
+  1984 - [Super Cassette Vision](http://takeda-toshiya.my.coocan.jp/)
+  
   1984? - [Commodore PC-30 III](https://pcem-emulator.co.uk/)
   
   1985 - [Pecom 32 and 64](https://www.emma02.hobby-site.com/)
@@ -536,6 +562,8 @@ Victor, Hector, Hector HR, Hector HR +, Hector HRX, Hector HR MX 40 columns, Hec
   
   1985 - [NCR PC4/i](https://pcem-emulator.co.uk/status.html)
   
+  1985 - [Zemmix Series](http://emulation.gametechwiki.com/index.php/MSX_emulators)
+  
   1985 - [Thomson TO9](http://dcmoto.free.fr/emulateur/index.html)
   
   1985 - [Commodore 128](https://emulation.gametechwiki.com/index.php/Commodore_128_emulators)
@@ -547,6 +575,8 @@ Victor, Hector, Hector HR, Hector HR +, Hector HRX, Hector HR MX 40 columns, Hec
   1985 - [Intel 80386/Intel 386](https://emulation.gametechwiki.com/index.php/Intel_CPUs)
   
   1985 - [VTech Type-right machine](http://amigan.1emu.net/)
+  
+  1985 - [Sega System 16 and similar](https://github.com/barry65536/FBAlpha)
   
   1985 - [VAXstation II / VAXstation II/GPX / MicroVAX II](https://github.com/simh/simh)
   
@@ -567,6 +597,8 @@ Victor, Hector, Hector HR, Hector HR +, Hector HRX, Hector HR MX 40 columns, Hec
   1986 - [Compaq Portable II](https://pcem-emulator.co.uk/)
   
   1986 - [Exelvision Exeltel, Exeltel VS, Exeltel VX, Amper, Comtel](http://dcexel.free.fr/)
+  
+  1986 - [Videoton-TV Computer](http://gaia.atilia.eu/downloads/)
   
   1986 - [Thomson MO6/Olivetti Prodest PC 128](http://dcmoto.free.fr/emulateur/index.html)
   
@@ -596,6 +628,10 @@ Victor, Hector, Hector HR, Hector HR +, Hector HRX, Hector HR MX 40 columns, Hec
   
   1987 - [Acorn Archimedes](http://b-em.bbcmicro.com/arculator/), [ArcEm](http://arcem.sourceforge.net/)
   
+  1987 - [Sega X-Board](https://github.com/barry65536/FBAlpha)
+  
+  1987? - [Taito Y](https://github.com/barry65536/FBAlpha)
+  
   1987 - [Sharp X68000](https://emulation.gametechwiki.com/index.php/Sharp_X68000_emulators) 
   
   1987 - [Action Max](https://kangaroopunch.com/?page=Software/3000-2006-singe.xjs)
@@ -608,6 +644,8 @@ Victor, Hector, Hector HR, Hector HR +, Hector HRX, Hector HR MX 40 columns, Hec
   
   1988 - [Zenith Data SuperSport](https://pcem-emulator.co.uk/)
   
+  1988 - [Capcom Play System 1](https://github.com/barry65536/FBAlpha), [WinKawaks](http://www.winkawaks.org/)
+  
   1988 - [Schneider Euro PC](https://pcem-emulator.co.uk/)
   
   1988 - [Amstrad PC2086](https://pcem-emulator.co.uk/)
@@ -617,6 +655,12 @@ Victor, Hector, Hector HR, Hector HR +, Hector HRX, Hector HR MX 40 columns, Hec
   1988 - [Amstrad PPC512/640](https://pcem-emulator.co.uk/)
   
   1988 - [Dell System 200](https://pcem-emulator.co.uk/)
+  
+  1988 - [Sega Y-Board](https://github.com/barry65536/FBAlpha)
+  
+  1988? - [Toaplan 1](https://github.com/barry65536/FBAlpha)
+  
+  1988? - [Taito F2](https://github.com/barry65536/FBAlpha)
   
   1988 - [Epson PC AX/AX2e/AX3](https://pcem-emulator.co.uk/)
   
@@ -634,7 +678,11 @@ Victor, Hector, Hector HR, Hector HR +, Hector HRX, Hector HR MX 40 columns, Hec
   
   1989 - [Pentagon/Пентагон](https://github.com/chernandezba/zesarux/)
   
+  1989 - [NMK16](https://github.com/barry65536/FBAlpha)
+  
   1989 - [Intel 80486/Intel 486](https://emulation.gametechwiki.com/index.php/Intel_CPUs)
+  
+  1989 - [Sega System 18](https://github.com/barry65536/FBAlpha)
   
   1989 - [VAXstation 3100 M30 / M38 / M76](https://github.com/simh/simh)
 
@@ -654,15 +702,25 @@ Victor, Hector, Hector HR, Hector HR +, Hector HRX, Hector HR MX 40 columns, Hec
   
   1991 - [VAXstation 4000 VLC / M60](https://github.com/simh/simh)
   
+  1991 - [Kaneko 16](https://github.com/barry65536/FBAlpha)
+  
+  1991? - [Toaplan 2](https://github.com/barry65536/FBAlpha)
+  
   1991 - [SEGA Game Gear](https://emulation.gametechwiki.com/index.php/Master_System_emulators)
   
   1992 - [SEGA Model 1](https://emulation.gametechwiki.com/index.php/Sega_Model_1)
+  
+  1992 - [Atari Falcon](http://hatari.tuxfamily.org/), [ARAnyM](https://aranym.github.io/)
   
   1992 - [Dendy](http://emulation.gametechwiki.com/index.php/Nintendo_Entertainment_System_emulators#Dendy)
   
   1992? - [Acermate 386SX/25N](https://pcem-emulator.co.uk/)
   
   1993 - [MicroVAX 3100 M80](https://github.com/simh/simh)
+  
+  1993 - [Psikyo 68EC020 and SH-2 based hardware](https://github.com/barry65536/FBAlpha)
+  
+  1993 - [Capcom Play System 2](https://github.com/barry65536/FBAlpha), [WinKawaks](http://www.winkawaks.org/index.htm)
   
   1993 - [SEGA Model 2](https://emulation.gametechwiki.com/index.php/Sega_Model_2)
   
@@ -682,13 +740,21 @@ Victor, Hector, Hector HR, Hector HR +, Hector HRX, Hector HR MX 40 columns, Hec
   
   1994 - [SEGA Saturn](https://emulation.gametechwiki.com/index.php/Sega_Saturn_emulators)
   
+  1995 - [Cave Arcade](https://github.com/barry65536/FBAlpha)
+  
   1995 - [Nintendo Virtual Boy](https://emulation.gametechwiki.com/index.php/Virtual_Boy_emulators)
   
   1996 - [Nintendo 64](https://emulation.gametechwiki.com/index.php/Nintendo_64_emulators)
   
   1996 - [SEGA Model 3](https://emulation.gametechwiki.com/index.php/Sega_Model_3)
   
+  1996 - [Kaneko Super Nova System](https://github.com/barry65536/FBAlpha)
+  
+  1996 - [Capcom Play System 3](https://github.com/barry65536/FBAlpha)
+  
   1997 - [Intel Pentium II](https://emulation.gametechwiki.com/index.php/Intel_CPUs)
+  
+  1997 - [PolyGame Master](https://github.com/barry65536/FBAlpha)
   
   1998 - [Intel Celeron](https://emulation.gametechwiki.com/index.php/Intel_CPUs)
   
@@ -758,10 +824,12 @@ Victor, Hector, Hector HR, Hector HR +, Hector HRX, Hector HR MX 40 columns, Hec
   
   ???? - [Membership Card/VIP2K Membership Card](https://www.emma02.hobby-site.com/)
   
-  19__ - [Packard Bell Legend SX300](https://pcem-emulator.co.uk/)
+  19xx - [Data East DEC-0, DEC-8 and DECO IC16 based games](https://github.com/barry65536/FBAlpha)
   
-  19__ - [Bull Micral 45](https://pcem-emulator.co.uk/)
+  19xx - [Packard Bell Legend SX300](https://pcem-emulator.co.uk/)
   
-  19__ - [Intel Systems 8010 and 8020](https://github.com/simh/simh)
+  19xx - [Bull Micral 45](https://pcem-emulator.co.uk/)
   
-  19__ - [RCA Microboard System](https://www.emma02.hobby-site.com/)
+  19xx - [Intel Systems 8010 and 8020](https://github.com/simh/simh)
+  
+  19xx - [RCA Microboard System](https://www.emma02.hobby-site.com/)
