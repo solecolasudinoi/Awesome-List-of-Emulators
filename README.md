@@ -159,6 +159,8 @@ Be aware, these aren't the only machines that can be emulated. I haven't really 
   
   1969 - [Honeywell H316](http://simh.trailing-edge.com/)
   
+  1970s - [PONG games and variants](http://www.pong-story.com/pcpong.htm)
+  
   1970 - [PDP-11](http://simh.trailing-edge.com/), [online PDP-11/70 emu](https://skn.noip.me/pdp11/pdp11.html), [other emulators](http://www.pdp11.org/)
   
   1970 - [PDP-15](http://simh.trailing-edge.com/)
@@ -279,9 +281,13 @@ Be aware, these aren't the only machines that can be emulated. I haven't really 
   
   1977 - [Compucolor II](http://www.compucolor.org/emu.html)
   
+  1977 - [Sharp eSM-B-80TE](http://takeda-toshiya.my.coocan.jp/)
+  
   1977 - [TRS-80 Model I/II/III/4](http://www.trs-80.com/wordpress/emulators/), [Matthew Reed's emulators](http://www.trs-80emulators.com/#emulators)
   
   1977 - [MK-14](https://github.com/chernandezba/zesarux/)
+  
+  1977 - [NEC TK-80BS](http://takeda-toshiya.my.coocan.jp/)
   
   1977 - [Dolphin trainer](http://amigan.1emu.net/)
   
@@ -295,17 +301,23 @@ Be aware, these aren't the only machines that can be emulated. I haven't really 
   
   1978 - [Visicom COM-100](https://www.emma02.hobby-site.com/)
   
+  1978 - [Toshiba EX-80](http://takeda-toshiya.my.coocan.jp/)
+  
   1978 - [Netronics Elf II](http://www.elf-emulation.com/emulator.html), [emma-02](https://www.emma02.hobby-site.com/)
   
   1978 - [Quest Super Elf](http://www.elf-emulation.com/emulator.html), [emma-02](https://www.emma02.hobby-site.com/)
   
   1978 - [Victory MPT-02](https://www.emma02.hobby-site.com/)
   
+  1978 - [APF MP1000](https://emulation.gametechwiki.com/index.php/APF_MP1000_emulators)
+  
   1978 - [Intel 8086](https://emulation.gametechwiki.com/index.php/Intel_CPUs)
   
   1978 - [Ohio Scientific Challenger 1P](https://www.pcjs.org/)
   
   1978 - [Signetics Instructor 50](http://amigan.1emu.net/)
+  
+  1978 - [Sharp MZ-80K/C](http://takeda-toshiya.my.coocan.jp/)
   
   1978 - [Interact Family Computer and seven Micronic computers:
 Victor, Hector, Hector HR, Hector HR +, Hector HRX, Hector HR MX 40 columns, Hector HR MX 80 columns](http://dchector.free.fr/)
@@ -334,6 +346,10 @@ Victor, Hector, Hector HR, Hector HR +, Hector HRX, Hector HR MX 40 columns, Hec
   
   1979 - [Atari 400/800/XL/XE](https://emulation.gametechwiki.com/index.php/Atari_8-bit)
   
+  1979 - [Milton Bradley MicroVision](https://www.raphkoster.com/2017/05/07/microvision-emulator-release/)
+  
+  1979 - [NEC PC-8001/mkII/mkIISR](http://takeda-toshiya.my.coocan.jp/)
+  
   1979 - [APF Imagination Machine](http://www.nausicaa.net/~lgreenf/apfpage.htm)
   
   1979 - [Mattel Intellivision](https://emulation.gametechwiki.com/index.php/Intellivision_emulators)
@@ -350,11 +366,15 @@ Victor, Hector, Hector HR, Hector HR +, Hector HRX, Hector HR MX 40 columns, Hec
   
   1980 - [HP-41CV](https://nonpareil.brouhaha.com/)
   
+  1980 - [Epson HX-20/HC-20](http://takeda-toshiya.my.coocan.jp/)
+  
   1980 - [Apple ///](https://emulation.gametechwiki.com/index.php/Apple_///_Line)
   
   1980 - [Thomson T9000](http://dcmoto.free.fr/emulateur/index.html)
   
   1980 - [Oscom Nano](https://www.emma02.hobby-site.com/)
+  
+  1980 - [System Formulate BUBCOM80](http://takeda-toshiya.my.coocan.jp/)
   
   1980 - [Pacman based hardware](https://github.com/barry65536/FBAlpha)
   
@@ -363,6 +383,8 @@ Victor, Hector, Hector HR, Hector HR +, Hector HRX, Hector HR MX 40 columns, Hec
   1980 - [Sinclair ZX80](https://www.vincenzoscarpa.it/emuwiki/pmwiki/pmwiki.php?n=Emulatori.Win,ZX80?), [sz81](http://sz81.sourceforge.net/), [more emulators](https://www.old-computers.com/museum/emulator.asp?c=262&st=1)
   
   1980 - [PHUNSY Computer](http://amigan.1emu.net/)
+  
+  1980 - [NEC TK-85](http://takeda-toshiya.my.coocan.jp/)
   
   1980 - [VAX-11/750](https://github.com/simh/simh)
   
@@ -374,9 +396,23 @@ Victor, Hector, Hector HR, Hector HR +, Hector HRX, Hector HR MX 40 columns, Hec
   
   1981 - [BBC Micro](https://emulation.gametechwiki.com/index.php/BBC_Micro_emulators)
   
+  1981 - [Кроха/Krokha](http://bashkiria-2m.narod.ru/)
+  
+  1981 - [Schachcomputer SC 2](http://www.jens-mueller.org/jkcemu/)
+  
+  1981 - [Canon BX-1](http://takeda-toshiya.my.coocan.jp/)
+  
   1981 - [DOS](https://www.dosbox.com/)
   
   1981 - [Sinclair ZX81](https://emulation.gametechwiki.com/index.php/Sinclair_ZX81_emulators)
+  
+  1981 - [Toshiba PASOPIA](http://takeda-toshiya.my.coocan.jp/)
+  
+  1981 - [Fujitsu FM-8](http://takeda-toshiya.my.coocan.jp/)
+  
+  1981 - [National/Panasonic JR-100](http://takeda-toshiya.my.coocan.jp/)
+  
+  1981 - [Japan Electronics College MYCOMZ-80a](http://takeda-toshiya.my.coocan.jp/)
   
   1981 - [Laser Battle and Lazarian coin-ops by Zaccaria](http://amigan.1emu.net/)
   
@@ -388,9 +424,15 @@ Victor, Hector, Hector HR, Hector HR +, Hector HRX, Hector HR MX 40 columns, Hec
   
   1981 - [Acorn Atom](http://atomulator.acornatom.co.uk/), [online version](http://phils-place.co.uk/HTeMuLator/atom/)
   
+  1981 - [NEC N5200](http://takeda-toshiya.my.coocan.jp/)
+  
   1981 - [NEC PC-6000](https://emulation.gametechwiki.com/index.php/NEC_PC-6000_series)
   
   1981 - [NEC PC-8801](https://emulation.gametechwiki.com/index.php/NEC_PC-8800_series)
+  
+  1981 - [VTech Creativision](https://atariage.com/forums/topic/240800-coolcv-emulator-for-mac-os-x-linux-windows-and-raspberry/), [creatiVision emulator](https://sourceforge.net/projects/creativisionemulator/)
+  
+  1981 - [Sharp MZ-80b](http://takeda-toshiya.my.coocan.jp/)
   
   1981? - [Malzak 1 and 2 coin-ops by Kitronix](http://amigan.1emu.net/)
   
@@ -400,15 +442,31 @@ Victor, Hector, Hector HR, Hector HR +, Hector HRX, Hector HR MX 40 columns, Hec
   
   1982 - [Telmac TMC-600](https://www.emma02.hobby-site.com/)
   
+  1982 - [Sharp MZ-700](http://mzakd.cool.coocan.jp/mz-memories/mz700win.html), [MZ-800 emulator](https://sourceforge.net/projects/mz800emu/), [EmuZ-700](http://takeda-toshiya.my.coocan.jp/)
+  
+  1982 - [Sharp MZ-2000](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-mz2000)
+  
+  1982 - [Sharp MZ-80a/Sharp MZ-1200](http://takeda-toshiya.my.coocan.jp/)
+  
+  1982 - [Sharp MZ-3500](http://takeda-toshiya.my.coocan.jp/)
+  
   1982 - [Intel 80862/Intel 862](https://emulation.gametechwiki.com/index.php/Intel_CPUs)
   
   1982 - [NEC PC-9800](https://emulation.gametechwiki.com/index.php/NEC_PC-9800_series)
+  
+  1982 - [NEC PC-9801E/U/VF/VM/VX/RA](http://takeda-toshiya.my.coocan.jp/)
+  
+  1982 - [Sony SMC-70](http://takeda-toshiya.my.coocan.jp/)
+  
+  1982 - [Tomy Tutor/Pyuta](http://takeda-toshiya.my.coocan.jp/)
+  
+  1982 - [Sord M5](http://takeda-toshiya.my.coocan.jp/)
   
   1982 - [Atari 5200](https://emulation.gametechwiki.com/index.php/Atari_5200_emulators)
   
   1982 - [Commodore 64/65](https://emulation.gametechwiki.com/index.php/Commodore_64_emulators)
   
-  1982 - [Sharp X1](https://emulation.gametechwiki.com/index.php/Sharp_X1_emulators)
+  1982 - [Sharp X1/X1twin/X1turbo/X1turboZ](https://emulation.gametechwiki.com/index.php/Sharp_X1_emulators)
   
   1982 - [VAX-11/730](https://github.com/simh/simh)
   
@@ -428,6 +486,12 @@ Victor, Hector, Hector HR, Hector HR +, Hector HRX, Hector HR MX 40 columns, Hec
   
   1982 - [TRS-80 Model 16](http://48k.ca/trs80gp.html)
   
+  1982 - [Entex Adventure Vision](https://sourceforge.net/projects/adviemulator/)
+  
+  1982 - [Casio FP-200](http://takeda-toshiya.my.coocan.jp/)
+  
+  1982 - [Yamaha YIS](http://takeda-toshiya.my.coocan.jp/)
+  
   1982 - [Oric-1](https://github.com/pete-gordon/oricutron)
   
   1982 - [Dragon 32/64](http://archive.worldofdragon.org/index.php?title=Emulation), [other emulators](https://www.zophar.net/coco.html)
@@ -437,6 +501,8 @@ Victor, Hector, Hector HR, Hector HR +, Hector HRX, Hector HR MX 40 columns, Hec
   1982 - [Vectrex](https://emulation.gametechwiki.com/index.php/Vectrex_emulators)
   
   1982 - [Fujitsu FM-7](https://emulation.gametechwiki.com/index.php/Fujitsu_FM-7_emulators)
+  
+  1982 - [Hitachi MB-6885/BASIC Master Jr](http://takeda-toshiya.my.coocan.jp/)
   
   1982 - [Thomson TO7, TO7/70](http://dcmoto.free.fr/emulateur/index.html)
   
@@ -456,13 +522,37 @@ Victor, Hector, Hector HR, Hector HR +, Hector HRX, Hector HR MX 40 columns, Hec
   
   1983 - [IBM PC XT](https://emulation.miraheze.org/wiki/IBM_PC/XT_emulators), [online version](https://www.pcjs.org/)
   
+  1983 - [Casio PV-1000](http://takeda-toshiya.my.coocan.jp/)
+  
+  1983 - [Casio PV-2000](http://takeda-toshiya.my.coocan.jp/)
+  
+  1983 - [Toshiba PASOPIA 7](http://takeda-toshiya.my.coocan.jp/)
+  
   1983 - [Chaos 2 Computer](http://amigan.1emu.net/)
+  
+  1983 - [Sharp MZ-2200](http://takeda-toshiya.my.coocan.jp/)
+  
+  1983 - [Sharp MZ-5500](http://takeda-toshiya.my.coocan.jp/)
+  
+  1983 - [Panasonic/National JR-800](http://takeda-toshiya.my.coocan.jp/)
+  
+  1983 - [NEC PC-2001](http://takeda-toshiya.my.coocan.jp/)
+  
+  1983 - [NEC PC-8201/8201a](http://takeda-toshiya.my.coocan.jp/)
+  
+  1983 - [NEC PC-100](http://takeda-toshiya.my.coocan.jp/)
+  
+  1983 - [Vtech Laser 100/110](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-l100)
   
   1983 - [Coleco Adam](https://fms.komkon.org/ColEm/), [CoolCV](https://atariage.com/forums/topic/240800-coolcv-emulator-for-mac-os-x-linux-windows-and-raspberry/)
   
   1983 - [SEGA SG-1000/SC-3000](https://emulation.gametechwiki.com/index.php/SG-1000_emulators)
   
+  1983 - [Sony SMC-777](http://takeda-toshiya.my.coocan.jp/)
+  
   1983 - [NES](https://emulation.gametechwiki.com/index.php/Nintendo_Entertainment_System_emulators)
+  
+  1983 - [Hino Electronics CEFUCOM-21](http://takeda-toshiya.my.coocan.jp/)
   
   1983 - [Phillips Videopac+ G7400](http://o2em.sourceforge.net/) 
   
@@ -474,13 +564,21 @@ Victor, Hector, Hector HR, Hector HR +, Hector HRX, Hector HR MX 40 columns, Hec
   
   1983 - [Apple Lisa](https://emulation.gametechwiki.com/index.php/Apple_Lisa_emulators)
   
+  1983 - [Canon X-07](http://takeda-toshiya.my.coocan.jp/)
+  
   1983 - [HT-1080Z/VideoGenie/System-80](http://gaia.atilia.eu/downloads/)
   
-  1983 - [Spectravideo SV-318/328](http://bluemsx.msxblue.com/download.html), [online version](https://bluemsx.com/), [zesarux](https://github.com/chernandezba/zesarux/)
+  1983 - [Spectravideo SV-318/328](http://bluemsx.msxblue.com/download.html), [online version](https://bluemsx.com/), [zesarux](https://github.com/chernandezba/zesarux/), [svi-3x8 emulator](http://takeda-toshiya.my.coocan.jp/)
   
   1983 - [TRS-80 Model 100, 102, 200](https://sourceforge.net/projects/virtualt/)
   
+  1983 - [VCS-80](http://www.jens-mueller.org/jkcemu/)
+  
+  1983 - [Vtech Laser 200/210](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-dsvz200), [vz emulators](https://vzalive.bluebilby.com/emulators/), [vz200-emulator](https://github.com/soundpaint/VZ200-Emulator)
+  
   1983 - [HomeLab Model III/IV](http://gaia.atilia.eu/downloads/)
+  
+  1983 - [Sanyo PHC-25](http://takeda-toshiya.my.coocan.jp/)
   
   1983 - [Timex TS 2068](https://github.com/chernandezba/zesarux/)
   
@@ -488,11 +586,21 @@ Victor, Hector, Hector HR, Hector HR +, Hector HRX, Hector HR MX 40 columns, Hec
   
   1983 - [Olivetti M24](https://pcem-emulator.co.uk/)
   
+  1983 - [Casio FP-1100](http://takeda-toshiya.my.coocan.jp/)
+  
+  1983 - [Epson QX-10/QC-10](http://takeda-toshiya.my.coocan.jp/)
+  
   1983 - [Panasonic JR-200](https://find-jr200.github.io/vjr200_en.html), [older emulator](http://www.geocities.ws/emucompboy/)
   
   1983 - [Matra Alice 32](http://alice32.free.fr/)
   
   1983 - [Mattel Aquarius](https://www.zophar.net/aquarius.html)
+  
+  1983 - [Bandai RX-78](http://takeda-toshiya.my.coocan.jp/)
+  
+  1983 - [Fujitsu FM-16 Beta](http://takeda-toshiya.my.coocan.jp/)
+  
+  1983 - [Mitsubishi Multi-8](http://takeda-toshiya.my.coocan.jp/)
   
   1983 - [Tandy MC-10](http://mc-10.com/), [Virtual MC-10](https://colorcomputerarchive.com/repo/MC-10/emulators/Virtual%20MC-10/), [dcalice](http://alice32.free.fr/)
   
@@ -510,11 +618,25 @@ Victor, Hector, Hector HR, Hector HR +, Hector HRX, Hector HR MX 40 columns, Hec
   
   1984 - [SF-7000](https://emulation.gametechwiki.com/index.php/SG-1000_emulators)
   
+  1984 - [Fujitsu FM-77/FM-77L4/FM-77AV/FM-77AV40/FM-77AV40EX](http://takeda-toshiya.my.coocan.jp/)
+  
+  1984 - [IBM PC/JX](http://takeda-toshiya.my.coocan.jp/)
+  
+  1984 - [Toshiba HX-20 + FDD](http://takeda-toshiya.my.coocan.jp/)
+  
   1984 - [Thomson MO5, MO5E, MO5N, MO5NR](http://dcmoto.free.fr/emulateur/index.html)
   
   1984 - [Philips / Radiola / Schneider VG5000µ](http://dcvg5k.free.fr/)
   
+  1984 - [Sharp MZ-1500](http://takeda-toshiya.my.coocan.jp/)
+  
+  1984 - [Sharp MZ-6500/6550](http://takeda-toshiya.my.coocan.jp/)
+  
   1984 - [Robotron KC85](http://www.kc85emu.de/), [online virtualkc](https://floooh.github.io/virtualkc/), [KC85 Emu](https://lanale.de/kc85_emu/KC85_Emu.html), [JKCEMU](http://www.jens-mueller.org/jkcemu/), [kcemu](https://sourceforge.net/projects/kcemu/)
+  
+  1984? - [HC900](http://www.jens-mueller.org/jkcemu/)
+  
+  1984 - [Hübler / Evert-MC](http://www.jens-mueller.org/jkcemu/)
   
   1984 - [Amstrad CPC 464, 664, 6128](http://www.emucamp.com/amstrad_cpc.html), [online version](https://www.retrovm.com/)
   
@@ -531,6 +653,10 @@ Victor, Hector, Hector HR, Hector HR +, Hector HRX, Hector HR MX 40 columns, Hec
   1984 - [VAXstation I / MicroVAX I](https://github.com/simh/simh)
   
   1984 - [VAX 8600/8650](https://github.com/simh/simh)
+  
+  1984 - [Nintendo Family BASIC](http://takeda-toshiya.my.coocan.jp/)
+  
+  1984 - [Pioneer PX-7](http://takeda-toshiya.my.coocan.jp/)
   
   1984 - [Irem M62, M63, M72, M90, M92 and M107](https://github.com/barry65536/FBAlpha)
   
@@ -550,13 +676,21 @@ Victor, Hector, Hector HR, Hector HR +, Hector HRX, Hector HR MX 40 columns, Hec
   
   1984 - [Compaq Deskpro/Deskpro 386](https://pcem-emulator.co.uk/)
   
+  1984 - [Epson PX-8 Geneva](http://takeda-toshiya.my.coocan.jp/)
+  
+  1984 - [LC-80](http://www.jens-mueller.org/jkcemu/)
+  
   1984 - [AT&T 3B2](https://github.com/simh/simh)
   
   1984 - [AT&T 6300](https://www.pcjs.org/)
   
   1984 - [Zenith Z-150](https://www.pcjs.org/)
   
+  1984 - [Amateurcomputer AC1 Berlin](http://www.jens-mueller.org/jkcemu/)
+  
   1984 - [Super Cassette Vision](http://takeda-toshiya.my.coocan.jp/)
+  
+  1984 - [Poly880](http://www.jens-mueller.org/jkcemu/)
   
   1984? - [Агат-7/Agat-7](http://bashkiria-2m.narod.ru/)
   
@@ -572,15 +706,39 @@ Victor, Hector, Hector HR, Hector HR +, Hector HRX, Hector HR MX 40 columns, Hec
   
   1985 - [Robotron PC 1715](http://bashkiria-2m.narod.ru/)
   
+  1985 - [Epson PX-4/HC-40/HX-40](http://takeda-toshiya.my.coocan.jp/)
+  
+  1985 - [Fujitsu FM-16 Pi](http://takeda-toshiya.my.coocan.jp/)
+  
   1985 - [Enterprise](http://ep128emu.sourceforge.net/), [ep32emu](http://web.axelero.hu/egzo/ep/epemu.html), [online version](http://ep.lgb.hu/jsep/)
   
   1985 - [SMS/SEGA Master System](https://emulation.gametechwiki.com/index.php/Master_System_emulators)
   
   1985 - [Pravetz 8D](https://github.com/pete-gordon/oricutron)
   
+  1985 - [VTech Laser 310](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-dsvz200), [vz emulators](https://vzalive.bluebilby.com/emulators/)
+  
+  1985 - [VTech Laser 350/500/700](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-dsvz200), [laser500emu](https://github.com/nippur72/laser500emu)
+  
   1985 - [NCR PC4/i](https://pcem-emulator.co.uk/status.html)
   
+  1985 - [NEC PC-6601/6601SR](http://takeda-toshiya.my.coocan.jp/)
+  
+  1985 - [NEC PC-98XA/XL/RL/DO/LT/HA](http://takeda-toshiya.my.coocan.jp/)
+  
+  1985 - [Z1013](http://www.jens-mueller.org/jkcemu/)
+  
   1985 - [Zemmix Series](http://emulation.gametechwiki.com/index.php/MSX_emulators)
+  
+  1985 - [LLC1](http://www.jens-mueller.org/jkcemu/)
+  
+  1985 - [LLC2](http://www.jens-mueller.org/jkcemu/)
+  
+  1985 - [Sharp MZ-800](http://takeda-toshiya.my.coocan.jp/), [MZ-800 emulator](https://sourceforge.net/projects/mz800emu/)
+  
+  1985 - [Sharp MZ-2500](http://takeda-toshiya.my.coocan.jp/)
+  
+  1985 - [Tesla PMD-85](http://www.schotek.cz/download.htm)
   
   1985 - [Thomson TO9](http://dcmoto.free.fr/emulateur/index.html)
   
@@ -596,6 +754,8 @@ Victor, Hector, Hector HR, Hector HR +, Hector HRX, Hector HR MX 40 columns, Hec
   
   1985 - [Ириша/Irisha](http://bashkiria-2m.narod.ru/)
   
+  1985 - [BCS3](http://www.jens-mueller.org/jkcemu/)
+  
   1985 - [Sega System 16 and similar](https://github.com/barry65536/FBAlpha)
   
   1985 - [VAXstation II / VAXstation II/GPX / MicroVAX II](https://github.com/simh/simh)
@@ -608,7 +768,13 @@ Victor, Hector, Hector HR, Hector HR +, Hector HRX, Hector HR MX 40 columns, Hec
   
   1986 - [IBM XT Model 286](https://pcem-emulator.co.uk/)
   
+  1986 - [Toshiba J-3100GT/SL / T3100](http://takeda-toshiya.my.coocan.jp/)
+  
   1986 - [Toshiba T3100e](https://pcem-emulator.co.uk/)
+  
+  1986 - [C-80](http://www.jens-mueller.org/jkcemu/)
+  
+  1986 - [Panasonic FS-A1](http://takeda-toshiya.my.coocan.jp/)
   
   1986 - [Nintendo Famicom Disk System](https://emulation.gametechwiki.com/index.php/Nintendo_Entertainment_System_emulators)
   
@@ -644,6 +810,10 @@ Victor, Hector, Hector HR, Hector HR +, Hector HRX, Hector HR MX 40 columns, Hec
   
   1987 - [MicroVAX 3100 M10 / M10e / M20 / M20E](https://github.com/simh/simh)
   
+  1987 - [Robotron KC 87/Z9001/KC85/1](http://www.jens-mueller.org/jkcemu/), [tiny8bit online version](https://floooh.github.io/tiny8bit/z9001.html?type=kc87)
+  
+  1987 - [Kramer MC](http://www.jens-mueller.org/jkcemu/)
+  
   1987 - [Thomson TO16](https://pcem-emulator.co.uk/)
   
   1987 - [Toshiba T1000/T1200](https://pcem-emulator.co.uk/)
@@ -660,6 +830,8 @@ Victor, Hector, Hector HR, Hector HR +, Hector HRX, Hector HR MX 40 columns, Hec
   
   1987 - [Cambridge Z88](https://github.com/chernandezba/zesarux/), [OZvm](https://sourceforge.net/projects/z88/files/emulator/)
   
+  1987 - [Fujitsu FMR-30/50/60](http://takeda-toshiya.my.coocan.jp/)
+  
   1987 - [Acorn Archimedes](http://b-em.bbcmicro.com/arculator/), [ArcEm](http://arcem.sourceforge.net/)
   
   1987 - [Sega X-Board](https://github.com/barry65536/FBAlpha)
@@ -667,6 +839,8 @@ Victor, Hector, Hector HR, Hector HR +, Hector HRX, Hector HR MX 40 columns, Hec
   1987 - [Корвет/Corvette](http://bashkiria-2m.narod.ru/)
   
   1987 - [Вектор-06ц/Vector-06c / Вектор Старт-1200/Vector Start-1200 / Криста-2/Christa-2](http://bashkiria-2m.narod.ru/)
+  
+  1987 - [Sharp MZ-2800](http://takeda-toshiya.my.coocan.jp/)
   
   1987? - [Taito Y](https://github.com/barry65536/FBAlpha)
   
@@ -680,6 +854,8 @@ Victor, Hector, Hector HR, Hector HR +, Hector HRX, Hector HR MX 40 columns, Hec
   
   1988 - [Atari PC3](https://pcem-emulator.co.uk/)
   
+  1988 - [Fujitsu FMR-70/80](http://takeda-toshiya.my.coocan.jp/)
+  
   1988 - [Zenith Data SuperSport](https://pcem-emulator.co.uk/)
   
   1988 - [Capcom Play System 1](https://github.com/barry65536/FBAlpha), [WinKawaks](http://www.winkawaks.org/)
@@ -687,6 +863,8 @@ Victor, Hector, Hector HR, Hector HR +, Hector HRX, Hector HR MX 40 columns, Hec
   1988 - [Апогей/Apogee](http://bashkiria-2m.narod.ru/)
   
   1988 - [Juku](http://bashkiria-2m.narod.ru/)
+  
+  1988 - [Hübler graphic MC](http://www.jens-mueller.org/jkcemu/)
   
   1988 - [Schneider Euro PC](https://pcem-emulator.co.uk/)
   
@@ -714,6 +892,8 @@ Victor, Hector, Hector HR, Hector HR +, Hector HRX, Hector HR MX 40 columns, Hec
   
   1989 - [MicroVAX 3900](http://simh.trailing-edge.com/)
   
+  1989 - [BIC A5105](https://sourceforge.net/projects/kcemu/)
+  
   1989 - [Байт/Byte](http://bashkiria-2m.narod.ru/)
   
   1989 - [МС 2721](http://bashkiria-2m.narod.ru/)
@@ -738,9 +918,15 @@ Victor, Hector, Hector HR, Hector HR +, Hector HRX, Hector HR MX 40 columns, Hec
   
   1989 - [Pentagon/Пентагон](https://github.com/chernandezba/zesarux/)
   
+  1989 - [KC Compact](http://www.jens-mueller.org/jkcemu/), [tiny8bit online version](https://floooh.github.io/tiny8bit/cpc.html?type=kccompact)
+  
   1989 - [ЛИК/LIK](http://bashkiria-2m.narod.ru/)
   
   1989 - [NMK16](https://github.com/barry65536/FBAlpha)
+  
+  1989 - [SLC1](http://www.jens-mueller.org/jkcemu/)
+  
+  1989 - [A5105 (BIC, ALBA-PC 1505)](http://www.jens-mueller.org/jkcemu/)
   
   1989 - [Intel 80486/Intel 486](https://emulation.gametechwiki.com/index.php/Intel_CPUs)
   
@@ -780,13 +966,21 @@ Victor, Hector, Hector HR, Hector HR +, Hector HRX, Hector HR MX 40 columns, Hec
   
   1991? - [Toaplan 2](https://github.com/barry65536/FBAlpha)
   
+  1991 - [Babbage's 2nd Difference Engine](http://takeda-toshiya.my.coocan.jp/)
+  
   1991 - [SEGA Game Gear](https://emulation.gametechwiki.com/index.php/Master_System_emulators)
   
   1992 - [SEGA Model 1](https://emulation.gametechwiki.com/index.php/Sega_Model_1)
   
   1992 - [Atari Falcon](http://hatari.tuxfamily.org/), [ARAnyM](https://aranym.github.io/)
   
+  1992 - [Watara Supervision](http://tailchao.com/Wataroo/index.php), [potator](https://github.com/alekmaul/potator)
+  
+  1992 - Tandy Video Information System/Memorex VIS -- Uses an altered version of Windows 3.1, software may be able to run on there
+  
   1992 - [Dendy](http://emulation.gametechwiki.com/index.php/Nintendo_Entertainment_System_emulators#Dendy)
+  
+  1992 - [TV Boy](http://takeda-toshiya.my.coocan.jp/)
   
   1992? - [Acermate 386SX/25N](https://pcem-emulator.co.uk/)
   
@@ -816,9 +1010,11 @@ Victor, Hector, Hector HR, Hector HR +, Hector HRX, Hector HR MX 40 columns, Hec
   
   1994 - [Playstation 1](http://emulation.gametechwiki.com/index.php/PlayStation_emulators)
   
-  1994 - [SEGA Saturn](https://emulation.gametechwiki.com/index.php/Sega_Saturn_emulators)
+  1994 - [SEGA Saturn/SEGA Titan Video](https://emulation.gametechwiki.com/index.php/Sega_Saturn_emulators)
   
   1995 - [Cave Arcade](https://github.com/barry65536/FBAlpha)
+  
+  1995 - [Sony ZiNc/ZN-1/ZN-2/Namco System 11](https://emulation.gametechwiki.com/index.php/ZiNc), [other emulators](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-zinc)
   
   1995 - [Nintendo Virtual Boy](https://emulation.gametechwiki.com/index.php/Virtual_Boy_emulators)
   
@@ -834,9 +1030,15 @@ Victor, Hector, Hector HR, Hector HR +, Hector HRX, Hector HR MX 40 columns, Hec
   
   1997 - [PolyGame Master](https://github.com/barry65536/FBAlpha)
   
+  1997 - [Tiger Electronics Game.com](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-gamecomemu)
+  
   1998 - [Intel Celeron](https://emulation.gametechwiki.com/index.php/Intel_CPUs)
   
+  1998 - [Seiko Ruputer/Matsucom OnHand PC](http://www.megadriver.info/aurex/)
+  
   1998 - [Game Boy Color](https://emulation.gametechwiki.com/index.php/Game_Boy/Game_Boy_Color_emulators)
+  
+  1998 - [Neo Geo Pocket / Neo Geo Pocket Color](https://emulation.gametechwiki.com/index.php/Neo_Geo_Pocket_emulators)
   
   1998 - [SEGA Dreamcast](https://emulation.gametechwiki.com/index.php/Sega_Dreamcast_emulators)
   
@@ -851,6 +1053,8 @@ Victor, Hector, Hector HR, Hector HR +, Hector HRX, Hector HR MX 40 columns, Hec
   1999 - [Gaelco PowerVR Based](https://emulation.gametechwiki.com/index.php/Sega_NAOMI_and_variants)
   
   1999 - [Psion Series 5mx](https://wuffs.org/WindEmu/index.html)
+  
+  1999 - [Sony PocketStation](http://emulation.gametechwiki.com/index.php/PocketStation_emulators)
   
   1999/2000 - [WonderSwan/WonderSwan Color](https://emulation.gametechwiki.com/index.php/WonderSwan_emulators)
   
@@ -880,6 +1084,8 @@ Victor, Hector, Hector HR, Hector HR +, Hector HRX, Hector HR MX 40 columns, Hec
   
   2004 - [Nintendo DS](https://emulation.gametechwiki.com/index.php/Nintendo_DS_emulators)
   
+  2004 - [Sony PSP](https://emulation.gametechwiki.com/index.php/PlayStation_Portable_emulators)
+  
   2004 - [SEGA System SP](https://emulation.gametechwiki.com/index.php/Sega_NAOMI_and_variants)
   
   2004 - [Taito TypeX and its variants](https://emulation.gametechwiki.com/index.php/Taito_Type_X_and_variants)
@@ -888,19 +1094,45 @@ Victor, Hector, Hector HR, Hector HR +, Hector HRX, Hector HR MX 40 columns, Hec
   
   2005 - [Xbox 360](https://emulation.gametechwiki.com/index.php/Xbox_360_emulators)
   
+  2006 - [Mattel Hyperscan](https://github.com/LiraNuna/hyperscan-emulator)
+  
+  2006 - [V.Smile](https://github.com/RebeccaRGB/unununium)
+  
   2006 - [Nintendo Wii](https://emulation.gametechwiki.com/index.php/Wii_emulators)
   
   2006 - [Playstation 3](https://emulation.gametechwiki.com/index.php/PlayStation_3_emulators)
+  
+  2008 - [Android](https://emulation.gametechwiki.com/index.php/Android_emulators)
   
   2009 - [Nintendo DSi](https://emulation.gametechwiki.com/index.php/Nintendo_DSi_emulators)
   
   2011 - [Nintendo 3DS](https://emulation.gametechwiki.com/index.php/Nintendo_3DS_emulators)
   
+  2011 - [Sony Playstation Vita](https://emulation.gametechwiki.com/index.php/PlayStation_Vita_emulators)
+  
   2012 - [Nintendo Wii U](https://emulation.gametechwiki.com/index.php/Wii_U_emulators)
+  
+  2015 - [GPD XD/XD+](https://emulation.gametechwiki.com/index.php/GPD_XD_Devices)
   
   2017 - [Nintendo Switch](https://emulation.gametechwiki.com/index.php/Nintendo_Switch_emulators)
   
   ???? - [Membership Card/VIP2K Membership Card](https://www.emma02.hobby-site.com/)
+  
+  19xx - [Cellphones before Android](https://emulation.gametechwiki.com/index.php/Cellphone_emulators)
+  
+  19xx - [General Arcade](https://emulation.gametechwiki.com/index.php/Arcade_emulators)
+  
+  19xx - [Seiko MAP-1010](http://takeda-toshiya.my.coocan.jp/)
+  
+  19xx - [Yuasa Kyouiku System YALKY](http://takeda-toshiya.my.coocan.jp/)
+  
+  19xx - [Shinko Sangyo YS-6464a](http://takeda-toshiya.my.coocan.jp/)
+  
+  19xx - [NANOS](http://www.jens-mueller.org/jkcemu/)
+  
+  19xx - [MITEC MP-85](http://takeda-toshiya.my.coocan.jp/)
+  
+  19xx - [PC/M / Mugler/Mathes PC / Mugler-PC](http://www.jens-mueller.org/jkcemu/)
   
   19xx - [Data East DEC-0, DEC-8 and DECO IC16 based games](https://github.com/barry65536/FBAlpha)
   
