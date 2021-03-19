@@ -31,7 +31,7 @@ Be aware, these aren't the only machines that can be emulated. I haven't really 
   
   
   
-  ***1950s/1970s:***
+  ***1950s/1960s:***
   
   1950 - [Pilot ACE](http://members.iinet.net.au/~dgreen/PilotACE/index.html)
   
@@ -158,6 +158,9 @@ Be aware, these aren't the only machines that can be emulated. I haven't really 
   1969 - [IBM System/3](http://simh.trailing-edge.com/), [Symulator3](https://github.com/GregorJ101/Symulator3)
   
   1969 - [Honeywell H316](http://simh.trailing-edge.com/)
+  
+  
+  ***1970s>***
   
   1970s - [PONG games and variants](http://www.pong-story.com/pcpong.htm)
   
@@ -363,6 +366,9 @@ Victor, Hector, Hector HR, Hector HR +, Hector HRX, Hector HR MX 40 columns, Hec
   1979 - [Intel 8088](https://pcem-emulator.co.uk/)
   
   1979? - [Cosmicos](https://www.emma02.hobby-site.com/)
+  
+  
+  
   
   ***1980s***
   
@@ -936,6 +942,9 @@ Victor, Hector, Hector HR, Hector HR +, Hector HRX, Hector HR MX 40 columns, Hec
   
   1989 - [VAXstation 3100 M30 / M38 / M76](https://github.com/simh/simh)
   
+  
+  
+  
   ***1990s***
 
   1990 - [IBM System/390](http://www.hercules-390.org/)
@@ -1062,6 +1071,9 @@ Victor, Hector, Hector HR, Hector HR +, Hector HRX, Hector HR MX 40 columns, Hec
   
   1999/2000 - [WonderSwan/WonderSwan Color](https://emulation.gametechwiki.com/index.php/WonderSwan_emulators)
   
+  
+  
+  
   ***2000s***
   
   2000 - [IBM z/Architecture](http://www.hercules-390.org/)
@@ -1111,6 +1123,9 @@ Victor, Hector, Hector HR, Hector HR +, Hector HRX, Hector HR MX 40 columns, Hec
   2008 - [Android](https://emulation.gametechwiki.com/index.php/Android_emulators)
   
   2009 - [Nintendo DSi](https://emulation.gametechwiki.com/index.php/Nintendo_DSi_emulators)
+  
+  
+  
   
   ***2010s***
   
